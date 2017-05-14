@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Springfield Collections Annual Leave Calendar",
+        "link": "",
+        "departments": ["Collections"],
+        "category": "Tools",
+        "site": "AU"
+    },
+    {
+        "title": "Buyer Information",
+        "link": "http://mercado.au.money.ge.com/sites/collections/Departments/LossRecoveries/DebtSale/BuyerInformation.html?site=b",
+        "departments": ["Collections"],
+        "category": "Forms",
+        "site": "AU"
+    },
+    {
+        "title": "Outsource Agents",
+        "link": "http://mercado.au.money.ge.com/sites/collections/Departments/LossRecoveries/DebtSale/BuyerInformation.html?site=b",
+        "departments": ["Collections"],
+        "category": "Forms",
+        "site": "AU"
+    },
+    {
+        "title": "CEC Annual Leave Calendar",
+        "link": "",
+        "departments": ["Collections"],
+        "category": "Tools",
+        "site": "AU"
+    },
+    {
+        "title": "Hardship PL Calculator",
+        "link": "http://mercado.au.money.ge.com/sites/collections/Departments/LitigationSF/Hardship/HardshipDecisionMatrix_July_2012.xls",
+        "departments": ["Collections"],
+        "category": "Calculators",
+        "site": "AU"
+    },
+    {
+        "title": "SharePoint - Bolt",
+        "link": "https://casemanager.au.money.ge.com/sites/ealerts/SitePages/Search.aspx",
+        "departments": ["Collections"],
+        "category": "Systems",
+        "site": "AU"
+    },
+    {
+        "title": "DMS",
+        "link": "http://dmssalmat.capital.ge.com/gemdscr/ies/iv_web_client.iv_start",
+        "departments": ["Customer Solutions","Collections","Insurance","Originations"],
+        "category": "Systems",
+        "site": "AU"
+    },
+    {
+        "title": "Beacon NZ Customers",
+        "link": "http://beacon.au.money.ge.com",
+        "departments": ["Insurance"],
+        "category": "Systems",
+        "site": "NZ"
+    },
+    {
+        "title": "DMS - NZ Credit Card (Stellant)",
+        "link": "http://nzstellent.au.money.ge.com/ibpmweb/Client/Framework.asp?T=1245373469000&AWS=0",
+        "departments": ["Insurance"],
+        "category": "Systems",
+        "site": "NZ"
+    },
+    {
+        "title": "Accord Outage Complaint Form",
+        "link": "http://mercado.au.money.ge.com/Library/Email/MUL_Accord_Outage_Complaint_Received.msg",
+        "departments": ["Collections"],
+        "category": "Email Template",
+        "site": "AU"
+    }
+]

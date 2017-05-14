@@ -1,0 +1,112 @@
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <div class="header-all">
+            <div class="header-logo">
+                <img src="wp-content/themes/mercado-wp/images/dochubb.svg" height="35px" />
+            </div>
+            <div class="header-content">
+                <h3> DocHub</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-8">
+                <input type="text" class="form-control" ng-model="dchbSearch" placeholder="e.g. AV Intro Letter">
+            </div>
+            <div class="col-sm-4">
+                <select name="" id="" class="form-control" ng-model="dchbSite">
+                    <option value="">Site</option>
+                    <option value="AU">Australia - AU</option>
+                    <option value="NZ">New Zealand - NZ</option>
+                    <option value="ANZ">Australia & New Zealand - ANZ</option>
+                </select>
+            </div>
+        </div>
+        <br/>
+        <div class="row">
+            <div class="col-sm-4">
+                <select name="" id="" class="form-control">
+                    <option value="">Team</option>
+                </select>
+            </div>
+            <div class="col-sm-4">
+                <select name="" id="" class="form-control" ng-model="dchbProduct">
+                    <option value="">Product</option>
+                    <option value="Coles">Coles</option>
+                    <option value="Latitude">Latitude</option>
+                </select>
+            </div>
+            <div class="col-sm-4">
+                <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#myModal" ng-click="searchDocuments()">Search</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Search results {{dchbSearch}}</h4>
+            </div>
+            <div class="modal-body">
+                <h4>{{department}} Doc Hub</h4>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <input type="text" class="form-control" ng-model="dchbSearch" placeholder="e.g. AV Intro Letter">
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <select name="" id="" class="form-control" ng-model="dchbSite">
+                            <option value="">Select Site</option>
+                            <option value="AU">Australia - AU</option>
+                            <option value="NZ">New Zealand - NZ</option>
+                            <option value="ANZ">Australia & New Zealand - ANZ</option>
+                        </select>
+                    </div>
+                    <div class="col-sm-4">
+                        <select name="" id="" class="form-control">
+                            <option value="">Filter By Team</option>
+                        </select>
+                    </div>
+                    <div class="col-sm-4">
+                        <select name="" id="" class="form-control" ng-model="dchbProduct">
+                            <option value="">Filter By Product</option>
+                            <option value="Coles">Coles</option>
+                            <option value="Latitude">Latitude</option>
+                        </select>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <table class="table table-bordered">
+                            <thead>
+                                <th>Name</th>
+                                <th>Site</th>
+                                <th>Team</th>
+                                <th>Product</th>
+                            </thead>
+                            <tbody>
+                                <tr dir-paginate="document in documents | filter: dchbSearch | filter: {product:dchbProduct} | filter: {site: dchbSite} | itemsPerPage: 6" pagination-id="documents">
+                                    <th>{{document.acf.title}}</th>
+                                    <td>{{document.acf.site}}</td>
+                                    <td>{{document.acf.team}}</td>
+                                    <td>{{document.acf.product}}</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-sm-12">
+                        <dir-pagination-controls pagination-id="documents"></dir-pagination-controls>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>

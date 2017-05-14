@@ -1,0 +1,64 @@
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <div class="header-all">
+            <div class="header-logo">
+                <img src="wp-content/themes/mercado-wp/images/toolkitb.svg" height="35px" />
+            </div>
+            <div class="header-content">
+                <h3 class="yellow">My Toolkit</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <input type="text" class="form-control" placeholder="Search My Toolkit" ng-model="toolkitSearch">
+            </div>
+            <div class="col-sm-4">
+                <select ng-model="toolkitSite" class="form-control">
+                    <option value="">Select Sites</option>
+                    <option value="AU">Australia - AU</option>
+                    <option value="NZ">New Zealand - NZ</option>
+                </select>
+            </div>
+            <div class="col-sm-4">
+                <select ng-model="toolkitCategory" class="form-control">
+                    <option value="">Select Category</option>
+                    <option value="Systems">Systems</option>
+                    <option value="Tools">Tools</option>
+                    <option value="Link">Links</option>
+                    <option value="Folder">Folder</option>
+                    <option value="Forms">Forms</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-sm-3 col-xs-6" dir-paginate="myTool in toolkit  |filter: toolkitSearch | filter: {site:toolkitSite} | filter: {category:toolkitCategory} | itemsPerPage:8" pagination-id="toolkit">
+                <a href="{{myTool.acf.link}}" target="_blank">
+                    <div id="toolkit-tile">
+                        <div class="row">
+                            <div class="col-xs-6" data-toggle="tooltip" data-placement="top" title="{{myTool.acf.site}}">
+                                <span ng-show="myTool.acf.site == 'AU'"><img src="wp-content/themes/mercado-wp/images/au.svg" alt=""></span>
+                                <span ng-show="myTool.acf.site == 'NZ'"><img src="wp-content/themes/mercado-wp/images/nz.svg" alt=""></span>
+                                <span ng-show="myTool.acf.site == 'ANZ'"><img src="wp-content/themes/mercado-wp/images/au.svg" alt=""><img src="wp-content/themes/mercado-wp/images/nz.svg" alt=""></span>
+                            </div>
+                            <div class="col-xs-6 text-right" data-toggle="tooltip" data-placement="top" title="{{myTool.acf.category}}">
+                                <span ng-show="myTool.acf.category == 'Tool'"><img src="wp-content/themes/mercado-wp/images/XL.svg" alt=""></span>
+                                <span ng-show="myTool.acf.category == 'Form'"><img src="wp-content/themes/mercado-wp/images/form.svg" alt=""></span>
+                                <span ng-show="myTool.acf.category == 'System'"><img src="wp-content/themes/mercado-wp/images/system.svg" alt=""></span>
+                                <span ng-show="myTool.acf.category == 'Link'"><img src="wp-content/themes/mercado-wp/images/link.svg" alt=""></span>
+                                <span ng-show="myTool.acf.category == 'Folder'"><img src="wp-content/themes/mercado-wp/images/folder.svg" alt=""></span>
+                                <span ng-show="myTool.acf.category == 'Email Template'"><img src="wp-content/themes/mercado-wp/images/form.svg" alt=""></span>
+                            </div>
+                        </div>
+                        <h4 class="h6">{{myTool.acf.title}}</h4>
+
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-12">
+                <dir-pagination-controls pagination-id="toolkit"></dir-pagination-controls>
+            </div>
+        </div>
+    </div>
+</div>

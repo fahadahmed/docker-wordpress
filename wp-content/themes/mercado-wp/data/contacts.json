@@ -1,0 +1,46 @@
+[
+    {
+        "team": "New Accounts (Add Ons & Credit Limit Increases) Merchant",
+        "site": "AU",
+        "details": "<p><strong>Phone 1:</strong> 1300 361 921<br/><strong>Phone 2:</strong> 1300 442 273<br/><strong>Direct Phone Number - 1:</strong> 1800 002 288<br/><strong>Direct Phone Number - 2:</strong> 1800 757 435</p>",
+        "fax": "1300 361 045",
+        "department": "Originations"
+    },
+    {
+        "team": "New Accounts (Application Queries) Customers",
+        "site": "AU",
+        "details": "<p><strong>Phone 1:</strong> 1300 764 454<br/><strong>Direct Phone Number - 1:</strong> 1800 002 288<br/><strong>Direct Phone Number - 2:</strong> 1800 757 435</p>",
+        "fax": "1300 361 045",
+        "department": "Originations"
+    },
+    {
+        "team": "New Accounts (Add Ons & Credit Limit Increases) Merchant",
+        "site": "AU",
+        "details": "<p><strong>Phone 1:</strong> 1300 361 921<br/><strong>Phone 2:</strong> 1300 442 273<br/><strong>Direct Phone Number - 1:</strong> 1800 002 288<br/><strong>Direct Phone Number - 2:</strong> 1800 757 435</p>",
+        "fax": "1300 361 045",
+        "department": "Originations"
+    },
+    {
+        "team": "New Accounts (Application Queries) Customers",
+        "site": "AU",
+        "details": "<p><strong>Phone 1:</strong> 1300 764 454<br/><strong>Direct Phone Number - 1:</strong> 1800 002 288<br/><strong>Direct Phone Number - 2:</strong> 1800 757 435</p>",
+        "fax": "1300 361 045",
+        "department": "Originations",
+        "email": "new.accounts@latitudefinancial.com"
+    },
+    {
+        "team": "New Accounts (Add Ons & Credit Limit Increases) Merchant",
+        "site": "AU",
+        "details": "<p><strong>Phone 1:</strong> 1300 361 921<br/><strong>Phone 2:</strong> 1300 442 273<br/><strong>Direct Phone Number - 1:</strong> 1800 002 288<br/><strong>Direct Phone Number - 2:</strong> 1800 757 435</p>",
+        "fax": "1300 361 045",
+        "department": "Originations",
+        "hours": "Mon-Fri 9AM-5PM"
+    },
+    {
+        "team": "New Accounts (Application Queries) Customers",
+        "site": "AU",
+        "details": "<p><strong>Phone 1:</strong> 1300 764 454<br/><strong>Direct Phone Number - 1:</strong> 1800 002 288<br/><strong>Direct Phone Number - 2:</strong> 1800 757 435</p>",
+        "fax": "1300 361 045",
+        "department": "Originations"
+    }
+]

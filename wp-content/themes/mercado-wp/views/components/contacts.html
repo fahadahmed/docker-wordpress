@@ -1,0 +1,99 @@
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <span><img src="wp-content/themes/mercado-wp/images/phonebookgrey.svg" height="40px" style="float: left"/></span>
+        <h3>Our Phonebook</h3>
+        <div class="row">
+            <div class="col-sm-12">
+                <input type="text" class="form-control" ng-model="search" placeholder="Search team: e.g. Customer Solutions">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-sm-6">
+                <select name="" id="" class="form-control">
+                    <option value="">Select Site</option>
+                    <option value="AU">Australia - AU</option>
+                    <option value="NZ">New Zealand - NZ</option>
+                    <option value="ANZ">Australia & New Zealand - ANZ</option>
+                </select>
+            </div>
+            <div class="col-sm-6">
+                <button type="button" class="btn btn-primary btn-block" data-toggle="modal" data-target="#contactsModal">Find Contact</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="contactsModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Our Phonebook</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" ng-model="search" placeholder="Search team: e.g. Customer Solutions">
+                    </div>
+                    <div class="col-sm-3">
+                        <select name="" id="" class="form-control" ng-model="srchSite">
+                            <option value="">Select Site</option>
+                            <option value="AU">Australia - AU</option>
+                            <option value="NZ">New Zealand - NZ</option>
+                            <option value="ANZ">Australia & New Zealand - ANZ</option>
+                        </select>
+                    </div>
+                    <div class="col-sm-3">
+                        <select name="" id="" class="form-control" ng-model="srchDepartment">
+                            <option value="">Select Department</option>
+                            <option value="Collections">Collections</option>
+                            <option value="Originations">Originations</option>
+                            <option value="Customer Solutions">Customer Solutions</option>
+                            <option value="Customer Support">Customer Support</option>
+                            <option value="Personal Loans">Personal Loans</option>
+                            <option value="Insurance">Insurance</option>
+                        </select>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <table class="table table-bordered">
+                            <thead>
+                                <th width="30%">Team Name</th>
+
+
+                                <th width="40%">Contact Details (Site and Department)</th>
+
+
+                                <th width="30%">Open Hours</th>
+                            </thead>
+                            <tbody dir-paginate="contact in contacts | filter: search | filter: { $:{department:srchDepartment}} | filter: { $:{site:srchSite}} | itemsPerPage: 3" pagination-id="contacts">
+                                <tr>
+                                    <td>
+                                        <h5>{{contact.acf.team}}</h5>
+                                        <p class="product">{{contact.acf.product}}</p>
+                                    </td>
+
+
+                                    <td>
+                                        <h5>{{contact.acf.site}} - {{contact.acf.department}}</h5>
+                                        <div ng-bind-html="contact.acf.contact_details"></div>
+                                    </td>
+
+
+                                    <td ng-bind-html="contact.acf.open_hours"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <dir-pagination-controls pagination-id="contacts"></dir-pagination-controls>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
