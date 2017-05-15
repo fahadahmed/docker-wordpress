@@ -9,7 +9,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
             url: '/collections',
             params: {
                 department: 'Collections',
-                teams: ['Credit Card Collections', 'Personal Loans Collections', 'Motor Loans Collections', 'Equity Loans Collections', 'Hardship', 'Litigation', 'Loss Recoveries Centre', 'Comprehensive Credit Reporting', 'Skip Trace', 'Asset Management'],
+                teams: ['Credit Card Collections', 'Personal Loans Collections', 'Motor Loans Collections', 'Equity Loans Collections', 'Hardship', 'Litigation', 'Loss Recoveries Centre', 'Comprehensive Credit Reporting', 'Skip Trace', 'Asset Management', 'Skip', 'Inbound Cards and Personal Loans', 'Issuance and Custody', 'Specials', 'Outbound PL', 'Outbound Cards'],
             },
             views: {
                 '': {
@@ -38,7 +38,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
         url: '/originations',
         params: {
             department: 'Originations',
-            teams: ['New Accounts', 'Lending', 'SupportLine'],
+            teams: ['New Accounts', 'Lending', 'SupportLine', 'Central Compliance Team', 'Retail Finance', 'NZ Originations'],
         },
         views: {
             '': {
@@ -67,7 +67,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
         url: '/cs-support',
         params: {
             department: 'Customer Solutions & Support',
-            teams: [],
+            teams: ['Customer Solutions', 'Customer Service', 'Helpline', 'Customer Support', 'Business Support'],
         },
         views: {
             '': {
@@ -125,7 +125,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
         url: '/personal-loans',
         params: {
             department: 'Personal Loans',
-            teams: ['Outbound', 'Inbound', 'LPE'],
+            teams: ['PL Sales - Outbound', 'PL Sales - Inbound', 'PL Sales - LPE', 'Direct Sales - Outbound', 'Direct Sales - Inbound', 'Direct Sales - Online'],
         },
         views: {
             '': {
@@ -154,7 +154,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
         url: '/insurance',
         params: {
             department: 'Insurance',
-            teams: [],
+            teams: ['Insurance'],
         },
         views: {
             '': {
@@ -181,6 +181,10 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
 
     .state('fraud', {
         url: '/fraud',
+        params: {
+          department: 'Fraud',
+          teams: ['Fraud Falcon Prevention', 'Application Fraud Prevention (Instinct)', 'Claims and Dispute Team', 'Fraud Investigation']
+        },
         views: {
             '': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/fraud.html'
@@ -206,12 +210,6 @@ mercadoApp.controller('ToolkitCtrl', function($scope, $http, $q) {
 
 
     $q.all([tk_response, tk_response1, tk_response2, tk_response3]).then(function() {
-      // $scope.toolkit = tk_response.concat(tk_response1);
-      console.log(tk_response.$$state.value.data);
-      console.log(tk_response1.$$state.value.data);
-      console.log(tk_response2.$$state.value.data);
-      console.log(tk_response3.$$state.value.data);
-
       var a = tk_response.$$state.value.data;
       var b = tk_response1.$$state.value.data;
       var c = a.concat(b);
@@ -242,6 +240,9 @@ mercadoApp.controller('DocumentCtrl', function($scope, $http, $stateParams) {
     $scope.teams = $stateParams.teams;
     $scope.department = $stateParams.department;
 
+    console.log($scope.department);
+    console.log($scope.teams);
+
     var searchDocuments = function() {
         console.log("This function was called when the search button was clicked!");
     }
@@ -251,9 +252,6 @@ mercadoApp.controller('DocumentCtrl', function($scope, $http, $stateParams) {
         url: './wp-json/wp/v2/documents'
     }).then(function successCallback(response) {
         $scope.response = response;
-        //console.log($scope.response);
-        //console.log($scope.teams);
-        //console.log($scope.department);
         $scope.documents = $scope.response.data;
     }, function errorCallback(response) {
         console.log("Cannot get the data from the documents.json file.")

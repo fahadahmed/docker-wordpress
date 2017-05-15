@@ -24,9 +24,7 @@
         <br/>
         <div class="row">
             <div class="col-sm-4">
-                <select name="" id="" class="form-control">
-                    <option value="">Team</option>
-                </select>
+
             </div>
             <div class="col-sm-4">
                 <select name="" id="" class="form-control" ng-model="dchbProduct">
@@ -68,7 +66,7 @@
                     </div>
                     <div class="col-sm-4">
                         <select name="" id="" class="form-control">
-                            <option value="">Filter By Team</option>
+                            <select class="form-control" ng-options="team as team for team in teams" ng-model="myselect"></select>
                         </select>
                     </div>
                     <div class="col-sm-4">
