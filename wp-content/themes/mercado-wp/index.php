@@ -74,8 +74,8 @@
                         <h3 class="heading">Mercado Home</h3>
                         <div class="row"  ng-controller="CommsHubCtrl">
                             <div class="col-lg-12" ng-repeat="comms in response.data">
-                              <h6 class="text-right">{{comms.date}}</h6>
-                              <a href="{{comms.link}}"><h4 ng-bind-html="comms.title.rendered"></h4></a>
+                              <h6 class="text-right">{{comms.date | date: dd/MM/yyyy}}</h6>
+                              <a href="{{comms.link}}"><h4 ng-bind-html="comms.title.rendered" class="comms-title"></h4></a>
 
                               <h5 ng-bind-html="comms.excerpt.rendered"></h5>
 
