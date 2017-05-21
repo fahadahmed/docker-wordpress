@@ -264,7 +264,7 @@ mercadoApp.controller('CommsHubCtrl', function($scope, $http) {
 
     $http({
         method: 'GET',
-        url: 'http://homepage.lfs.local/communications/wp-json/wp/v2/posts'
+        url: './wp-content/themes/mercado-wp/data/posts.json'
     }).then(function successCallback(response) {
         $scope.response = response;
         // console.log($scope.response);

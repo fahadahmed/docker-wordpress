@@ -73,24 +73,51 @@
                     <ui-view>
                         <h3 class="heading">Mercado Home</h3>
                         <div class="row"  ng-controller="CommsHubCtrl">
-                            <div class="col-lg-4" ng-repeat="comms in response.data">
-                                <div class="panel panel-default">
-                                    <div class="panel-body">
-                                        <a href="{{comms.link}}"><h6 ng-bind-html="comms.title.rendered"></h6></a>
-                                        <hr>
-                                        <p ng-bind-html="comms.excerpt.rendered"></p>
+                            <div class="col-lg-12" ng-repeat="comms in response.data">
+                              <h6 class="text-right">{{comms.date}}</h6>
+                              <a href="{{comms.link}}"><h4 ng-bind-html="comms.title.rendered"></h4></a>
 
-                                    </div>
-                                    <div class="panel-footer">
-                                        <!-- <ul>
-                                            <li ng-repeat="category in comms.categories">{{category}}</li>
-                                        </ul>
-                                        <div class="" ng-repeat="category in comms.categories">
-                                            {{category}}
-                                        </div> -->
-                                        <p>{{comms.date}}</p>
-                                    </div>
-                                </div>
+                              <h5 ng-bind-html="comms.excerpt.rendered"></h5>
+
+                              <span class="badge" ng-repeat-start="category in comms.categories">
+                                  <div class="" ng-show="category === 30">
+                                    Business Support NZ
+                                  </div>
+                                  <div class="" ng-show="category === 14">
+                                    Collections AU
+                                  </div>
+                                  <div class="" ng-show="category === 28">
+                                    Collections NZ
+                                  </div>
+                                  <div class="" ng-show="category === 35">
+                                    Complaints Management Team
+                                  </div>
+                                  <div class="" ng-show="category === 29">
+                                    Customer Service NZ
+                                  </div>
+                                  <div class="" ng-show="category === 16">
+                                    Customer Solutions AU
+                                  </div>
+                                  <div class="" ng-show="category === 15">
+                                    Customer Support AU
+                                  </div>
+                                  <div class="" ng-show="category === 19">
+                                    Insurance AU
+                                  </div>
+                                  <div class="" ng-show="category === 31">
+                                    Insurance NZ
+                                  </div>
+                                  <div class="" ng-show="category === 17">
+                                    Originations AU
+                                  </div>
+                                  <div class="" ng-show="category === 42">
+                                    Personal Loans Sales AU
+                                  </div>
+                                  <div class="" ng-show="category === 32">
+                                    Personal Loans NZ
+                                  </div>
+                              </span> <span ng-repeat-end></span>
+                              <hr>
                             </div>
                         </div>
                     </ui-view>
