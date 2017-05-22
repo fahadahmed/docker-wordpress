@@ -112,6 +112,11 @@ p {
     color: #75787B;
 }
 
+a { color: #75787B; }
+a:hover {
+  color: #006ac6;
+}
+
 .h1,
 .h2,
 .h3,
@@ -260,14 +265,6 @@ input {
     border-radius: 0px;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    color: #75787B;
-}
 
 a:hover {
     text-decoration: none;

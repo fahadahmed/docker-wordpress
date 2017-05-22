@@ -73,51 +73,51 @@
                     <ui-view>
                         <h3 class="heading">Mercado Home</h3>
                         <div class="row"  ng-controller="CommsHubCtrl">
-                            <div class="col-lg-12" ng-repeat="comms in response.data">
-                              <h6 class="text-right">{{comms.date | date: dd/MM/yyyy}}</h6>
-                              <a href="{{comms.link}}"><h4 ng-bind-html="comms.title.rendered" class="comms-title"></h4></a>
+                            <h2 class="col-ls-12">{{ message }}</h2>
+                            <div class="col-lg-12 comms" ng-repeat="comms in response.data">
+                              <div class="panel panel-default">
+                                <div class="panel-body">
+                                  <div class="row">
+                                    <div class="col-lg-4">
+                                      <span ng-show="comms.featured_media === 75"><img src="http://homepage.lfs.local/communications/wp-content/uploads/sites/326/2016/12/did-you-know-1.svg" alt="" class="img-responsive" width="100%" >
+                                      </span>
+                                      <span ng-show="comms.featured_media === 74"><img src="http://homepage.lfs.local/communications/wp-content/uploads/sites/326/2016/12/did-you-know.svg" alt="" class="img-responsive" width="100%" >
+                                      </span>
+                                      <span ng-show="comms.featured_media === 71"><img src="http://homepage.lfs.local/communications/wp-content/uploads/sites/326/2016/12/in-the-loop-alternate.svg" alt="" class="img-responsive" width="100%" >
+                                      </span>
+                                      <span ng-show="comms.featured_media === 70"><img src="http://homepage.lfs.local/communications/wp-content/uploads/sites/326/2016/12/in-the-loop-1.svg" alt="" class="img-responsive" width="100%" >
+                                      </span>
+                                      <span ng-show="comms.featured_media === 69"><img src="http://homepage.lfs.local/communications/wp-content/uploads/sites/326/2016/12/news-flash-resolved-1.svg" alt="" class="img-responsive" width="100%" >
+                                      </span>
+                                      <span ng-show="comms.featured_media === 68"><img src="http://homepage.lfs.local/communications/wp-content/uploads/sites/326/2016/12/news-flash-urgent.svg" alt="" class="img-responsive" width="100%" >
+                                      </span>
+                                      <span ng-show="comms.featured_media === 67"><img src="http://homepage.lfs.local/communications/wp-content/uploads/sites/326/2017/01/horizon.svg" alt="" class="img-responsive" width="100%" >
+                                      </span>
+                                    </div>
+                                    <div class="col-lg-8">
+                                      <a href="{{comms.link}}"><h6 class="text-right">{{comms.date | date: dd/MM/yyyy}}</h6>
+                                    </div>
+                                  </div>
+                                  <h5 ng-bind-html="comms.title.rendered"></h5>
 
-                              <h5 ng-bind-html="comms.excerpt.rendered"></h5>
+                                  <p ng-bind-html="comms.excerpt.rendered"></p>
 
-                              <span class="badge" ng-repeat-start="category in comms.categories">
-                                  <div class="" ng-show="category === 30">
-                                    Business Support NZ
-                                  </div>
-                                  <div class="" ng-show="category === 14">
-                                    Collections AU
-                                  </div>
-                                  <div class="" ng-show="category === 28">
-                                    Collections NZ
-                                  </div>
-                                  <div class="" ng-show="category === 35">
-                                    Complaints Management Team
-                                  </div>
-                                  <div class="" ng-show="category === 29">
-                                    Customer Service NZ
-                                  </div>
-                                  <div class="" ng-show="category === 16">
-                                    Customer Solutions AU
-                                  </div>
-                                  <div class="" ng-show="category === 15">
-                                    Customer Support AU
-                                  </div>
-                                  <div class="" ng-show="category === 19">
-                                    Insurance AU
-                                  </div>
-                                  <div class="" ng-show="category === 31">
-                                    Insurance NZ
-                                  </div>
-                                  <div class="" ng-show="category === 17">
-                                    Originations AU
-                                  </div>
-                                  <div class="" ng-show="category === 42">
-                                    Personal Loans Sales AU
-                                  </div>
-                                  <div class="" ng-show="category === 32">
-                                    Personal Loans NZ
-                                  </div>
-                              </span> <span ng-repeat-end></span>
-                              <hr>
+                                  <span class="badge" ng-repeat-start="category in comms.categories">
+                                      <div class="" ng-show="category === 30">Business Support NZ</div>
+                                      <div class="" ng-show="category === 14">Collections AU</div>
+                                      <div class="" ng-show="category === 28">Collections NZ</div>
+                                      <div class="" ng-show="category === 35">Complaints Management Team</div>
+                                      <div class="" ng-show="category === 29">Customer Service NZ</div>
+                                      <div class="" ng-show="category === 16">Customer Solutions AU</div>
+                                      <div class="" ng-show="category === 15">Customer Support AU</div>
+                                      <div class="" ng-show="category === 19">Insurance AU</div>
+                                      <div class="" ng-show="category === 31">Insurance NZ</div>
+                                      <div class="" ng-show="category === 17">Originations AU</div>
+                                      <div class="" ng-show="category === 42">Personal Loans Sales AU</div>
+                                      <div class="" ng-show="category === 32">Personal Loans NZ</div>
+                                  </span> <span ng-repeat-end></span></a>
+                                </div>
+                              </div>
                             </div>
                         </div>
                     </ui-view>

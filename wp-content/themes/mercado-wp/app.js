@@ -260,14 +260,15 @@ mercadoApp.controller('DocumentCtrl', function($scope, $http, $stateParams) {
 
 mercadoApp.controller('CommsHubCtrl', function($scope, $http) {
 
-    $scope.message = 'Hello from Comms Hub!';
+    $scope.message = 'Please Wait...';
 
     $http({
         method: 'GET',
-        url: './wp-content/themes/mercado-wp/data/posts.json'
+        url: 'http://homepage.lfs.local/communications/wp-json/wp/v2/posts'
     }).then(function successCallback(response) {
         $scope.response = response;
         // console.log($scope.response);
+        $scope.message = "";
     }, function errorCallback(response) {
         console.log("Cannot get the data from the communications file.")
     });
