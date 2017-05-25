@@ -14,7 +14,7 @@
             </div>
             <div class="col-sm-4">
                 <select ng-model="toolkitSite" class="form-control">
-                    <option value="">Select Sites</option>
+                    <option value="">Select Country</option>
                     <option value="AU">Australia - AU</option>
                     <option value="NZ">New Zealand - NZ</option>
                 </select>
@@ -22,18 +22,24 @@
             <div class="col-sm-4">
                 <select ng-model="toolkitCategory" class="form-control">
                     <option value="">Select Category</option>
-                    <option value="Systems">Systems</option>
-                    <option value="Tools">Tools</option>
-                    <option value="Link">Links</option>
-                    <option value="Folder">Folder</option>
-                    <option value="Forms">Forms</option>
+                    <option value="calculators">Calculators</option>
+                    <option value="forms">Internal Forms, Checklists and Matrices</option>
+                    <option value="products">Marketing and Products</option>
+                    <option value="resources">My Resources</option>
+                    <option value="systems">Systems and Portals</option>
+                    <option value="compliance">Risk and Compliance</option>
+                    <option value="links">External Links</option>
+                    <option value="reporting">Reporting</option>
+                    <option value="training">Training</option>
+                    <option value="bcp">BCP</option>
                 </select>
             </div>
         </div>
     </div>
     <div class="panel-body">
+        <h3>{{message}}</h3>
         <div class="row">
-            <div class="col-sm-3 col-xs-6" dir-paginate="myTool in toolkit  |filter: toolkitSearch | filter: {site:toolkitSite} | filter: {category:toolkitCategory} | itemsPerPage:8" pagination-id="toolkit">
+            <div class="col-sm-3 col-xs-6" dir-paginate="myTool in toolkit | filter: {acf: {department: selected_department} } | filter: toolkitSearch | filter: {acf: {site:toolkitSite} } | filter: {acf: {category:toolkitCategory} } | itemsPerPage:8" pagination-id="toolkit">
                 <a href="{{myTool.acf.link}}" target="_blank">
                     <div id="toolkit-tile">
                         <div class="row">

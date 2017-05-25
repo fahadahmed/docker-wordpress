@@ -1,0 +1,7217 @@
+[
+{
+"id": 1108,
+"date": "2017-05-23T14:44:15",
+"date_gmt": "2017-05-23T03:44:15",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1108"
+},
+"modified": "2017-05-23T14:44:15",
+"modified_gmt": "2017-05-23T03:44:15",
+"slug": "third-party-authority-form-organisation-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/third-party-authority-form-organisation-2/",
+"title": {
+"rendered": "Third Party Authority Form &#8211; Organisation"
+},
+"template": "",
+"acf": {
+"title": "Third Party Authority Form - Organisation",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support",
+"Customer Service"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_ThirdPartyForm_L_V1.0.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1108"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1108"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1107,
+"date": "2017-05-23T14:43:41",
+"date_gmt": "2017-05-23T03:43:41",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1107"
+},
+"modified": "2017-05-23T14:43:41",
+"modified_gmt": "2017-05-23T03:43:41",
+"slug": "debt-waiver-approved",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/debt-waiver-approved/",
+"title": {
+"rendered": "Debt Waiver Approved"
+},
+"template": "",
+"acf": {
+"title": "Debt Waiver Approved",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Debt_Waive_Approved.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1107"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1107"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1102,
+"date": "2017-05-23T14:43:22",
+"date_gmt": "2017-05-23T03:43:22",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1102"
+},
+"modified": "2017-05-23T14:43:22",
+"modified_gmt": "2017-05-23T03:43:22",
+"slug": "third-party-authority-form-individual-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/third-party-authority-form-individual-2/",
+"title": {
+"rendered": "Third Party Authority Form &#8211; Individual"
+},
+"template": "",
+"acf": {
+"title": "Third Party Authority Form - Individual",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support",
+"Customer Service"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_ThirdPartyFormIndividual_L_V1.0.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1102"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1102"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1106,
+"date": "2017-05-23T14:42:25",
+"date_gmt": "2017-05-23T03:42:25",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1106"
+},
+"modified": "2017-05-23T14:42:25",
+"modified_gmt": "2017-05-23T03:42:25",
+"slug": "moratorium-letter-organisation-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/moratorium-letter-organisation-2/",
+"title": {
+"rendered": "Moratorium Letter (Organisation)"
+},
+"template": "",
+"acf": {
+"title": "Moratorium Letter (Organisation)",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_All_Products_Moratorium_Letter_Organisation.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1106"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1106"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1105,
+"date": "2017-05-23T14:41:46",
+"date_gmt": "2017-05-23T03:41:46",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1105"
+},
+"modified": "2017-05-23T14:41:46",
+"modified_gmt": "2017-05-23T03:41:46",
+"slug": "moratorium-letter-organisation",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/moratorium-letter-organisation/",
+"title": {
+"rendered": "Moratorium Letter (Organisation)"
+},
+"template": "",
+"acf": {
+"title": "Moratorium Letter (Organisation)",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_All_Products_Moratorium_Letter_Organisation.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1105"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1105"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1104,
+"date": "2017-05-23T14:40:51",
+"date_gmt": "2017-05-23T03:40:51",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1104"
+},
+"modified": "2017-05-23T14:40:51",
+"modified_gmt": "2017-05-23T03:40:51",
+"slug": "further-information-request-atp-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/further-information-request-atp-2/",
+"title": {
+"rendered": "Further Information Request ATP"
+},
+"template": "",
+"acf": {
+"title": "Further Information Request ATP",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_All_Products_Further_Information_Request_ATP.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1104"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1104"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1103,
+"date": "2017-05-23T14:40:16",
+"date_gmt": "2017-05-23T03:40:16",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1103"
+},
+"modified": "2017-05-23T14:40:16",
+"modified_gmt": "2017-05-23T03:40:16",
+"slug": "further-information-request-atp",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/further-information-request-atp/",
+"title": {
+"rendered": "Further Information Request ATP"
+},
+"template": "",
+"acf": {
+"title": "Further Information Request ATP",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_All_Products_Further_Information_Request_ATP.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1103"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1103"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1101,
+"date": "2017-05-23T14:39:18",
+"date_gmt": "2017-05-23T03:39:18",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1101"
+},
+"modified": "2017-05-23T14:39:18",
+"modified_gmt": "2017-05-23T03:39:18",
+"slug": "further-information-request-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/further-information-request-2/",
+"title": {
+"rendered": "Further Information Request"
+},
+"template": "",
+"acf": {
+"title": "Further Information Request",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_All_Products_Further_Information_Request.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1101"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1101"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1098,
+"date": "2017-05-23T14:36:52",
+"date_gmt": "2017-05-23T03:36:52",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1098"
+},
+"modified": "2017-05-23T14:36:52",
+"modified_gmt": "2017-05-23T03:36:52",
+"slug": "deposit-book-order-blank-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/deposit-book-order-blank-2/",
+"title": {
+"rendered": "Deposit Book Order &#8211; Blank"
+},
+"template": "",
+"acf": {
+"title": "Deposit Book Order - Blank",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Loans"
+],
+"url": "http://mercado.lfs.local/Library/Forms/BRA_DepositBookOrder.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1098"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1098"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1100,
+"date": "2017-05-23T14:34:58",
+"date_gmt": "2017-05-23T03:34:58",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1100"
+},
+"modified": "2017-05-23T14:34:58",
+"modified_gmt": "2017-05-23T03:34:58",
+"slug": "further-information-request",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/further-information-request/",
+"title": {
+"rendered": "Further Information Request"
+},
+"template": "",
+"acf": {
+"title": "Further Information Request",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_All_Products_Further_Information_Request.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1100"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1100"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1099,
+"date": "2017-05-23T14:33:56",
+"date_gmt": "2017-05-23T03:33:56",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1099"
+},
+"modified": "2017-05-23T14:33:56",
+"modified_gmt": "2017-05-23T03:33:56",
+"slug": "confirmation-of-removal-of-authorised-third-party-letter-organisation",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/confirmation-of-removal-of-authorised-third-party-letter-organisation/",
+"title": {
+"rendered": "Confirmation of Removal of Authorised Third Party Letter organisation"
+},
+"template": "",
+"acf": {
+"title": "Confirmation of Removal of Authorised Third Party Letter organisation",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": "",
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Confirmation_of_Removal_of_Authorised_Third_Party_Letter_Organisation.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1099"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1099"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1095,
+"date": "2017-05-23T14:24:38",
+"date_gmt": "2017-05-23T03:24:38",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1095"
+},
+"modified": "2017-05-23T14:24:38",
+"modified_gmt": "2017-05-23T03:24:38",
+"slug": "confirmation-of-removal-of-authorised-third-party-letter-individual-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/confirmation-of-removal-of-authorised-third-party-letter-individual-2/",
+"title": {
+"rendered": "Confirmation of Removal of Authorised Third Party Letter individual"
+},
+"template": "",
+"acf": {
+"title": "Confirmation of Removal of Authorised Third Party Letter individual",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Confirmation_of_Removal_of_Authorised_Third_Party_Letter_Individual.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1095"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1095"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1094,
+"date": "2017-05-23T14:23:55",
+"date_gmt": "2017-05-23T03:23:55",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1094"
+},
+"modified": "2017-05-23T14:23:55",
+"modified_gmt": "2017-05-23T03:23:55",
+"slug": "confirmation-of-removal-of-authorised-third-party-letter-individual",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/confirmation-of-removal-of-authorised-third-party-letter-individual/",
+"title": {
+"rendered": "Confirmation of Removal of Authorised Third Party Letter individual"
+},
+"template": "",
+"acf": {
+"title": "Confirmation of Removal of Authorised Third Party Letter individual",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Confirmation_of_Removal_Of_Authorised_Third_Party_Letter_Individual.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1094"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1094"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1093,
+"date": "2017-05-23T14:22:54",
+"date_gmt": "2017-05-23T03:22:54",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1093"
+},
+"modified": "2017-05-23T16:48:41",
+"modified_gmt": "2017-05-23T05:48:41",
+"slug": "deposit-book-order-blank",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/deposit-book-order-blank/",
+"title": {
+"rendered": "Deposit Book Order &#8211; Blank"
+},
+"template": "",
+"acf": {
+"title": "Deposit Book Order - Blank",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Loans"
+],
+"url": "http://mercado.lfs.local/Library/Forms/BRA_DepositBookOrder.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1093"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1093"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1091,
+"date": "2017-05-23T14:20:45",
+"date_gmt": "2017-05-23T03:20:45",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1091"
+},
+"modified": "2017-05-23T14:20:45",
+"modified_gmt": "2017-05-23T03:20:45",
+"slug": "competency-matrix-money-direct-70213-bm-only",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/competency-matrix-money-direct-70213-bm-only/",
+"title": {
+"rendered": "Competency Matrix Money Direct 70213 (BM ONLY)"
+},
+"template": "",
+"acf": {
+"title": "Competency Matrix Money Direct 70213 (BM ONLY)",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"All Loans"
+],
+"url": "http://mercado.lfs.local/sites/money_direct/branch_network/docs/forms/admin/COMPETENCY_MATRIX_Money_Direct_70213.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1091"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1091"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1090,
+"date": "2017-05-23T14:20:02",
+"date_gmt": "2017-05-23T03:20:02",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1090"
+},
+"modified": "2017-05-23T14:20:02",
+"modified_gmt": "2017-05-23T03:20:02",
+"slug": "charge-off-lodgment-form",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/charge-off-lodgment-form/",
+"title": {
+"rendered": "Charge Off Lodgment Form"
+},
+"template": "",
+"acf": {
+"title": "Charge Off Lodgment Form",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Loans"
+],
+"url": "http://mercado.lfs.local/Library/Forms/BRA_Charge_Off_File_Lodgement_Form.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1090"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1090"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1089,
+"date": "2017-05-23T14:19:24",
+"date_gmt": "2017-05-23T03:19:24",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1089"
+},
+"modified": "2017-05-23T14:19:24",
+"modified_gmt": "2017-05-23T03:19:24",
+"slug": "candidate-summary-sheet-updated-80213-bm-only",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/candidate-summary-sheet-updated-80213-bm-only/",
+"title": {
+"rendered": "Candidate Summary Sheet Updated 80213 (BM ONLY)"
+},
+"template": "",
+"acf": {
+"title": "Candidate Summary Sheet Updated 80213 (BM ONLY)",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Loans"
+],
+"url": "http://mercado.lfs.local/Library/Forms/BRA_CANDIDATE_SUMMARY_SHEET_Updated.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1089"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1089"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1088,
+"date": "2017-05-23T14:18:57",
+"date_gmt": "2017-05-23T03:18:57",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1088"
+},
+"modified": "2017-05-23T14:18:57",
+"modified_gmt": "2017-05-23T03:18:57",
+"slug": "branch-letterhead",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/branch-letterhead/",
+"title": {
+"rendered": "Branch Letterhead"
+},
+"template": "",
+"acf": {
+"title": "Branch Letterhead",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Loans"
+],
+"url": "http://mercado.lfs.local/Library/Letters/BRA_3PtLetterhead.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1088"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1088"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1087,
+"date": "2017-05-23T14:17:31",
+"date_gmt": "2017-05-23T03:17:31",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1087"
+},
+"modified": "2017-05-23T14:17:31",
+"modified_gmt": "2017-05-23T03:17:31",
+"slug": "branch-deposit-log",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/branch-deposit-log/",
+"title": {
+"rendered": "Branch Deposit Log"
+},
+"template": "",
+"acf": {
+"title": "Branch Deposit Log",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Products"
+],
+"url": "http://mercado.lfs.local/sites/money_direct/branch_network/docs/forms/admin/Branch_Deposit_Log1.xls"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1087"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1087"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1086,
+"date": "2017-05-23T14:16:48",
+"date_gmt": "2017-05-23T03:16:48",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1086"
+},
+"modified": "2017-05-23T14:16:48",
+"modified_gmt": "2017-05-23T03:16:48",
+"slug": "branch-closure-checklist",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/branch-closure-checklist/",
+"title": {
+"rendered": "Branch Closure Checklist"
+},
+"template": "",
+"acf": {
+"title": "Branch Closure Checklist",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Credit Cards"
+],
+"url": "http://mercado.lfs.local/sites/money_direct/branch_network/docs/forms/admin/Branch_Closure_Checklist_August_2012.xlsx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1086"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1086"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1085,
+"date": "2017-05-23T14:15:57",
+"date_gmt": "2017-05-23T03:15:57",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1085"
+},
+"modified": "2017-05-23T14:15:57",
+"modified_gmt": "2017-05-23T03:15:57",
+"slug": "bm-pfr-separation-checklist",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/bm-pfr-separation-checklist/",
+"title": {
+"rendered": "BM-PFR Separation Checklist"
+},
+"template": "",
+"acf": {
+"title": "BM-PFR Separation Checklist",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Loans"
+],
+"url": "http://mercado.lfs.local/Library/Forms/BRA_BM_PFR_Separation_Checklist.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1085"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1085"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1084,
+"date": "2017-05-23T14:15:22",
+"date_gmt": "2017-05-23T03:15:22",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1084"
+},
+"modified": "2017-05-23T14:15:22",
+"modified_gmt": "2017-05-23T03:15:22",
+"slug": "behavioural-coaching-sheet",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/behavioural-coaching-sheet/",
+"title": {
+"rendered": "Behavioural Coaching Sheet"
+},
+"template": "",
+"acf": {
+"title": "Behavioural Coaching Sheet",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Loans"
+],
+"url": "http://mercado.lfs.local/sites/money_direct/branch_network/docs/forms/admin/Behavioural_Coaching_Sheet1.xls"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1084"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1084"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1082,
+"date": "2017-05-23T14:14:01",
+"date_gmt": "2017-05-23T03:14:01",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1082"
+},
+"modified": "2017-05-23T14:14:01",
+"modified_gmt": "2017-05-23T03:14:01",
+"slug": "broker-code-list",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/broker-code-list/",
+"title": {
+"rendered": "Broker Code List"
+},
+"template": "",
+"acf": {
+"title": "Broker Code List",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Loans"
+],
+"url": "http://mercado.lfs.local/Library/Other/BRA_Broker_Code_List.xlsx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1082"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1082"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1081,
+"date": "2017-05-23T14:13:15",
+"date_gmt": "2017-05-23T03:13:15",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1081"
+},
+"modified": "2017-05-23T16:49:00",
+"modified_gmt": "2017-05-23T05:49:00",
+"slug": "online-portal-broker-email",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/online-portal-broker-email/",
+"title": {
+"rendered": "Online Portal &#8211; Broker email"
+},
+"template": "",
+"acf": {
+"title": "Online Portal - Broker email",
+"type": "Email",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"All Products"
+],
+"url": "http://mercado.lfs.local/Library/Email/BRA_Online_Portal_-_Broker_email.msg"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1081"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1081"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1080,
+"date": "2017-05-23T14:12:23",
+"date_gmt": "2017-05-23T03:12:23",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1080"
+},
+"modified": "2017-05-23T14:12:23",
+"modified_gmt": "2017-05-23T03:12:23",
+"slug": "letter-from-accountant",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/letter-from-accountant/",
+"title": {
+"rendered": "Letter from Accountant"
+},
+"template": "",
+"acf": {
+"title": "Letter from Accountant",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"All Loans"
+],
+"url": "http://mercado.lfs.local/Library/Email/PL_Letter_from_Accountant.msg"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1080"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1080"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1079,
+"date": "2017-05-23T14:11:30",
+"date_gmt": "2017-05-23T03:11:30",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1079"
+},
+"modified": "2017-05-23T14:11:30",
+"modified_gmt": "2017-05-23T03:11:30",
+"slug": "armed-hold-up-checklist",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/armed-hold-up-checklist/",
+"title": {
+"rendered": "Armed Hold up Checklist"
+},
+"template": "",
+"acf": {
+"title": "Armed Hold up Checklist",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan"
+],
+"url": "http://mercado.lfs.local/Library/Forms/BRA_Armed_Holdup_Intruder_Checklist.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1079"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1079"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1078,
+"date": "2017-05-23T14:10:58",
+"date_gmt": "2017-05-23T03:10:58",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1078"
+},
+"modified": "2017-05-23T14:10:58",
+"modified_gmt": "2017-05-23T03:10:58",
+"slug": "please-contact-us-pl-remediation-only",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/please-contact-us-pl-remediation-only/",
+"title": {
+"rendered": "Please Contact Us &#8211; PL Remediation ONLY"
+},
+"template": "",
+"acf": {
+"title": "Please Contact Us - PL Remediation ONLY",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan"
+],
+"url": "http://mercado.lfs.local/Library/Letters/Please_Contact_Letter_PL_Remediation_ONLY.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1078"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1078"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1077,
+"date": "2017-05-23T14:10:25",
+"date_gmt": "2017-05-23T03:10:25",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1077"
+},
+"modified": "2017-05-23T14:10:25",
+"modified_gmt": "2017-05-23T03:10:25",
+"slug": "please-contact-us",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/please-contact-us/",
+"title": {
+"rendered": "Please Contact Us"
+},
+"template": "",
+"acf": {
+"title": "Please Contact Us",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Personal Loans"
+],
+"teams": [
+"PL Sales"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan"
+],
+"url": "http://mercado.lfs.local/Library/Letters/PL_Please_Contact_Us_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1077"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1077"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1076,
+"date": "2017-05-23T12:09:17",
+"date_gmt": "2017-05-23T01:09:17",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1076"
+},
+"modified": "2017-05-23T12:09:17",
+"modified_gmt": "2017-05-23T01:09:17",
+"slug": "letter-of-authority-loa-form-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/letter-of-authority-loa-form-2/",
+"title": {
+"rendered": "Letter of Authority (LOA) Form"
+},
+"template": "",
+"acf": {
+"title": "Letter of Authority (LOA) Form",
+"type": "Form",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support",
+"Customer Service"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/products/onecard_visa/documents/Document_Repository/Other_Templates/OCV_LOA_AUTHORITY_TO_DISCLOSE_23112015.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1076"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1076"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1075,
+"date": "2017-05-23T12:05:27",
+"date_gmt": "2017-05-23T01:05:27",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1075"
+},
+"modified": "2017-05-23T12:05:27",
+"modified_gmt": "2017-05-23T01:05:27",
+"slug": "conditional-approval-pca-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/conditional-approval-pca-2/",
+"title": {
+"rendered": "Conditional Approval PCA"
+},
+"template": "",
+"acf": {
+"title": "Conditional Approval PCA",
+"type": "Email",
+"country": "NZ",
+"departments": [
+"Originations"
+],
+"teams": [
+"NZ Originations"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OnecardVisa_ConditionalApproval_PCA.msg"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1075"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1075"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1074,
+"date": "2017-05-23T12:04:26",
+"date_gmt": "2017-05-23T01:04:26",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1074"
+},
+"modified": "2017-05-23T12:04:26",
+"modified_gmt": "2017-05-23T01:04:26",
+"slug": "conditional-approval-poa-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/conditional-approval-poa-2/",
+"title": {
+"rendered": "Conditional Approval POA"
+},
+"template": "",
+"acf": {
+"title": "Conditional Approval POA",
+"type": "Email",
+"country": "AU",
+"departments": [
+"Originations"
+],
+"teams": [
+"NZ Originations"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OnecardVisa_ConditionalApproval_POA.msg"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1074"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1074"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1073,
+"date": "2017-05-23T12:00:29",
+"date_gmt": "2017-05-23T01:00:29",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1073"
+},
+"modified": "2017-05-23T12:00:29",
+"modified_gmt": "2017-05-23T01:00:29",
+"slug": "conditional-approval-aml-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/conditional-approval-aml-2/",
+"title": {
+"rendered": "Conditional Approval AML"
+},
+"template": "",
+"acf": {
+"title": "Conditional Approval AML",
+"type": "Email",
+"country": "NZ",
+"departments": [
+"Originations"
+],
+"teams": [
+"NZ Originations"
+],
+"products-sites": "Latitude",
+"product_type": "",
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OnecardVisa_ConditionalApproval_AML.msg"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1073"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1073"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1072,
+"date": "2017-05-23T11:59:36",
+"date_gmt": "2017-05-23T00:59:36",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1072"
+},
+"modified": "2017-05-23T11:59:36",
+"modified_gmt": "2017-05-23T00:59:36",
+"slug": "subject-to-clearance-3",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/subject-to-clearance-3/",
+"title": {
+"rendered": "Subject to Clearance"
+},
+"template": "",
+"acf": {
+"title": "Subject to Clearance ",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_Subject_to_Clearance_L_V1.0.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1072"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1072"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1070,
+"date": "2017-05-23T11:51:57",
+"date_gmt": "2017-05-23T00:51:57",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1070"
+},
+"modified": "2017-05-23T11:51:57",
+"modified_gmt": "2017-05-23T00:51:57",
+"slug": "confirmation-of-appointment-of-authorised-third-party-letter-individual",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/confirmation-of-appointment-of-authorised-third-party-letter-individual/",
+"title": {
+"rendered": "Confirmation of Appointment of Authorised Third Party Letter individual"
+},
+"template": "",
+"acf": {
+"title": "Confirmation of Appointment of Authorised Third Party Letter individual",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Confirmation_of_Appointment_of_Authorised_Third_Party_Letter_Individual.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1070"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1070"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1069,
+"date": "2017-05-23T11:51:01",
+"date_gmt": "2017-05-23T00:51:01",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1069"
+},
+"modified": "2017-05-23T11:51:01",
+"modified_gmt": "2017-05-23T00:51:01",
+"slug": "confirmation-of-appointment-of-authorised-third-party-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/confirmation-of-appointment-of-authorised-third-party-letter/",
+"title": {
+"rendered": "Confirmation of Appointment of Authorised Third Party Letter"
+},
+"template": "",
+"acf": {
+"title": "Confirmation of Appointment of Authorised Third Party Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Confirmation_of_Appointment_Of_Authorised_Third_Party_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1069"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1069"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1068,
+"date": "2017-05-23T11:45:41",
+"date_gmt": "2017-05-23T00:45:41",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1068"
+},
+"modified": "2017-05-23T11:45:41",
+"modified_gmt": "2017-05-23T00:45:41",
+"slug": "authority-to-disclose-form-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/authority-to-disclose-form-2/",
+"title": {
+"rendered": "Authority to Disclose Form"
+},
+"template": "",
+"acf": {
+"title": "Authority to Disclose Form",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "https://assets.latitudefinancial.com/forms/loans/third-party-authority.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1068"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1068"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1067,
+"date": "2017-05-23T11:44:21",
+"date_gmt": "2017-05-23T00:44:21",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1067"
+},
+"modified": "2017-05-23T11:44:21",
+"modified_gmt": "2017-05-23T00:44:21",
+"slug": "authority-to-disclose-form",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/authority-to-disclose-form/",
+"title": {
+"rendered": "Authority to Disclose Form"
+},
+"template": "",
+"acf": {
+"title": "Authority to Disclose Form",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "https://assets.latitudefinancial.com/forms/cards/authority-to-disclose/coles-atd.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1067"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1067"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1066,
+"date": "2017-05-23T11:39:26",
+"date_gmt": "2017-05-23T00:39:26",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1066"
+},
+"modified": "2017-05-23T11:39:26",
+"modified_gmt": "2017-05-23T00:39:26",
+"slug": "cover-letter-for-authority-to-disclose-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/cover-letter-for-authority-to-disclose-2/",
+"title": {
+"rendered": "Cover Letter for Authority to Disclose"
+},
+"template": "",
+"acf": {
+"title": "Cover Letter for Authority to Disclose",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Cover_Letter_ATD.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1066"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1066"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1065,
+"date": "2017-05-23T11:38:36",
+"date_gmt": "2017-05-23T00:38:36",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1065"
+},
+"modified": "2017-05-23T11:38:36",
+"modified_gmt": "2017-05-23T00:38:36",
+"slug": "cover-letter-for-authority-to-disclose",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/cover-letter-for-authority-to-disclose/",
+"title": {
+"rendered": "Cover Letter for Authority to Disclose"
+},
+"template": "",
+"acf": {
+"title": "Cover Letter for Authority to Disclose",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Cover_Letter_ATD.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1065"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1065"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1062,
+"date": "2017-05-23T11:30:09",
+"date_gmt": "2017-05-23T00:30:09",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1062"
+},
+"modified": "2017-05-23T11:30:09",
+"modified_gmt": "2017-05-23T00:30:09",
+"slug": "income-expenditure-form-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/income-expenditure-form-2/",
+"title": {
+"rendered": "Income &amp; Expenditure Form"
+},
+"template": "",
+"acf": {
+"title": "Income & Expenditure Form",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Income_and_Expenditure_form1.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1062"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1062"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1061,
+"date": "2017-05-23T11:28:57",
+"date_gmt": "2017-05-23T00:28:57",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1061"
+},
+"modified": "2017-05-23T11:28:57",
+"modified_gmt": "2017-05-23T00:28:57",
+"slug": "income-expenditure-form",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/income-expenditure-form/",
+"title": {
+"rendered": "Income &amp; Expenditure Form"
+},
+"template": "",
+"acf": {
+"title": "Income & Expenditure Form",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Forms/MUL_SFPF.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1061"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1061"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1060,
+"date": "2017-05-23T11:22:10",
+"date_gmt": "2017-05-23T00:22:10",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1060"
+},
+"modified": "2017-05-23T11:22:10",
+"modified_gmt": "2017-05-23T00:22:10",
+"slug": "deceased-insufficient-funds-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/deceased-insufficient-funds-letter-2/",
+"title": {
+"rendered": "Deceased Insufficient Funds Letter"
+},
+"template": "",
+"acf": {
+"title": "Deceased Insufficient Funds Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_12_DIF_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1060"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1060"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1059,
+"date": "2017-05-23T11:21:05",
+"date_gmt": "2017-05-23T00:21:05",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1059"
+},
+"modified": "2017-05-23T11:21:05",
+"modified_gmt": "2017-05-23T00:21:05",
+"slug": "deceased-insufficient-funds-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/deceased-insufficient-funds-letter/",
+"title": {
+"rendered": "Deceased Insufficient Funds Letter"
+},
+"template": "",
+"acf": {
+"title": "Deceased Insufficient Funds Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_12_DIF_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1059"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1059"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1058,
+"date": "2017-05-23T11:16:14",
+"date_gmt": "2017-05-23T00:16:14",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1058"
+},
+"modified": "2017-05-23T11:16:14",
+"modified_gmt": "2017-05-23T00:16:14",
+"slug": "contract-cover-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/contract-cover-letter/",
+"title": {
+"rendered": "Contract Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "Contract Cover Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Contract_Cover_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1058"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1058"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1057,
+"date": "2017-05-23T11:12:08",
+"date_gmt": "2017-05-23T00:12:08",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1057"
+},
+"modified": "2017-05-23T11:12:08",
+"modified_gmt": "2017-05-23T00:12:08",
+"slug": "manual-statement-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/manual-statement-letter-2/",
+"title": {
+"rendered": "Manual Statement Letter"
+},
+"template": "",
+"acf": {
+"title": "Manual Statement Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": "",
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Manual_Statement_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1057"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1057"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1056,
+"date": "2017-05-23T11:10:47",
+"date_gmt": "2017-05-23T00:10:47",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1056"
+},
+"modified": "2017-05-23T11:10:47",
+"modified_gmt": "2017-05-23T00:10:47",
+"slug": "manual-statement-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/manual-statement-letter/",
+"title": {
+"rendered": "Manual Statement Letter"
+},
+"template": "",
+"acf": {
+"title": "Manual Statement Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Manual_Statement_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1056"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1056"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1055,
+"date": "2017-05-23T11:07:35",
+"date_gmt": "2017-05-23T00:07:35",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1055"
+},
+"modified": "2017-05-23T11:07:35",
+"modified_gmt": "2017-05-23T00:07:35",
+"slug": "payment-arrangement-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/payment-arrangement-letter-2/",
+"title": {
+"rendered": "Payment Arrangement Letter"
+},
+"template": "",
+"acf": {
+"title": "Payment Arrangement Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Payment_Arrangement_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1055"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1055"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1054,
+"date": "2017-05-23T11:06:50",
+"date_gmt": "2017-05-23T00:06:50",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1054"
+},
+"modified": "2017-05-23T11:06:50",
+"modified_gmt": "2017-05-23T00:06:50",
+"slug": "payment-arrangement-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/payment-arrangement-letter/",
+"title": {
+"rendered": "Payment Arrangement Letter"
+},
+"template": "",
+"acf": {
+"title": "Payment Arrangement Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Payment_Arrangement_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1054"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1054"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1053,
+"date": "2017-05-23T11:05:15",
+"date_gmt": "2017-05-23T00:05:15",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1053"
+},
+"modified": "2017-05-23T11:05:15",
+"modified_gmt": "2017-05-23T00:05:15",
+"slug": "statement-cover-letter-4",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/statement-cover-letter-4/",
+"title": {
+"rendered": "Statement Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "Statement Cover Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Statement_Cover_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1053"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1053"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1052,
+"date": "2017-05-23T11:04:41",
+"date_gmt": "2017-05-23T00:04:41",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1052"
+},
+"modified": "2017-05-23T11:04:41",
+"modified_gmt": "2017-05-23T00:04:41",
+"slug": "statement-cover-letter-3",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/statement-cover-letter-3/",
+"title": {
+"rendered": "Statement Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "Statement Cover Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Statement_Cover_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1052"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1052"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1051,
+"date": "2017-05-23T11:02:43",
+"date_gmt": "2017-05-23T00:02:43",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1051"
+},
+"modified": "2017-05-23T11:02:43",
+"modified_gmt": "2017-05-23T00:02:43",
+"slug": "ie-cover-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/ie-cover-letter-2/",
+"title": {
+"rendered": "I&amp;E Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "I&E Cover Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_I_E_Cover_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1051"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1051"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1050,
+"date": "2017-05-23T11:00:58",
+"date_gmt": "2017-05-23T00:00:58",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1050"
+},
+"modified": "2017-05-23T11:00:58",
+"modified_gmt": "2017-05-23T00:00:58",
+"slug": "ie-cover-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/ie-cover-letter/",
+"title": {
+"rendered": "I&amp;E Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "I&E Cover Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_I_E_Cover_letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1050"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1050"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1049,
+"date": "2017-05-23T10:58:36",
+"date_gmt": "2017-05-22T23:58:36",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1049"
+},
+"modified": "2017-05-23T10:58:36",
+"modified_gmt": "2017-05-22T23:58:36",
+"slug": "fax-cover-letter-3",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/fax-cover-letter-3/",
+"title": {
+"rendered": "Fax Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "Fax Cover Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Fax_Cover_Letter.docx/Library/Letters/LRC_COLES_Fax_Cover_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1049"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1049"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1047,
+"date": "2017-05-23T10:57:51",
+"date_gmt": "2017-05-22T23:57:51",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1047"
+},
+"modified": "2017-05-23T10:57:51",
+"modified_gmt": "2017-05-22T23:57:51",
+"slug": "fax-cover-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/fax-cover-letter-2/",
+"title": {
+"rendered": "Fax Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "Fax Cover Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Fax_Cover_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1047"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1047"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1035,
+"date": "2017-05-23T10:39:47",
+"date_gmt": "2017-05-22T23:39:47",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1035"
+},
+"modified": "2017-05-23T10:39:47",
+"modified_gmt": "2017-05-22T23:39:47",
+"slug": "direct-debit-cover-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/direct-debit-cover-letter-2/",
+"title": {
+"rendered": "Direct Debit Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "Direct Debit Cover Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Direct_Debit_Cover_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1035"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1035"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1033,
+"date": "2017-05-23T10:38:04",
+"date_gmt": "2017-05-22T23:38:04",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1033"
+},
+"modified": "2017-05-23T10:38:04",
+"modified_gmt": "2017-05-22T23:38:04",
+"slug": "statement-cover-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/statement-cover-letter-2/",
+"title": {
+"rendered": "Statement Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "Statement Cover Letter",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_StatementCover_L_V1.0.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1033"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1033"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1030,
+"date": "2017-05-23T10:37:21",
+"date_gmt": "2017-05-22T23:37:21",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1030"
+},
+"modified": "2017-05-23T10:37:21",
+"modified_gmt": "2017-05-22T23:37:21",
+"slug": "direct-debit-cover-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/direct-debit-cover-letter/",
+"title": {
+"rendered": "Direct Debit Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "Direct Debit Cover Letter",
+"type": "Email",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa",
+"All Products"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Direct_Debit_Cover_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1030"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1030"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1019,
+"date": "2017-05-23T10:34:46",
+"date_gmt": "2017-05-22T23:34:46",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1019"
+},
+"modified": "2017-05-23T10:34:46",
+"modified_gmt": "2017-05-22T23:34:46",
+"slug": "pca-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/pca-letter/",
+"title": {
+"rendered": "PCA Letter"
+},
+"template": "",
+"acf": {
+"title": "PCA Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_PCA_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1019"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1019"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1027,
+"date": "2017-05-23T10:34:38",
+"date_gmt": "2017-05-22T23:34:38",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1027"
+},
+"modified": "2017-05-23T10:34:38",
+"modified_gmt": "2017-05-22T23:34:38",
+"slug": "payout-letter-for-figures-over-9000",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/payout-letter-for-figures-over-9000/",
+"title": {
+"rendered": "Payout Letter for Figures over $9000"
+},
+"template": "",
+"acf": {
+"title": "Payout Letter for Figures over $9000",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_ServiceMaintenancePayoutLetterOver9k_L_V1.0.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1027"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1027"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1025,
+"date": "2017-05-23T10:33:23",
+"date_gmt": "2017-05-22T23:33:23",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1025"
+},
+"modified": "2017-05-23T10:33:23",
+"modified_gmt": "2017-05-22T23:33:23",
+"slug": "card-resend-cover-sheet-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/card-resend-cover-sheet-2/",
+"title": {
+"rendered": "Card Resend Cover Sheet"
+},
+"template": "",
+"acf": {
+"title": "Card Resend Cover Sheet",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_ServiceMaintenanceCardResendCover_L_V1.0.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1025"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1025"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1020,
+"date": "2017-05-23T10:32:26",
+"date_gmt": "2017-05-22T23:32:26",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1020"
+},
+"modified": "2017-05-23T10:32:26",
+"modified_gmt": "2017-05-22T23:32:26",
+"slug": "confirmation-of-credit-limit-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/confirmation-of-credit-limit-2/",
+"title": {
+"rendered": "Confirmation of Credit Limit"
+},
+"template": "",
+"acf": {
+"title": "Confirmation of Credit Limit",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_ConfirmationOfCreditLimit_L_V0.1.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1020"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1020"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1016,
+"date": "2017-05-23T10:30:01",
+"date_gmt": "2017-05-22T23:30:01",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1016"
+},
+"modified": "2017-05-23T10:30:01",
+"modified_gmt": "2017-05-22T23:30:01",
+"slug": "atp-no-contact-letter-3",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/atp-no-contact-letter-3/",
+"title": {
+"rendered": "ATP no Contact Letter"
+},
+"template": "",
+"acf": {
+"title": "ATP no Contact Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_CCC_Third_Party_No_Contact_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1016"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1016"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1001,
+"date": "2017-05-23T10:27:42",
+"date_gmt": "2017-05-22T23:27:42",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1001"
+},
+"modified": "2017-05-23T10:27:42",
+"modified_gmt": "2017-05-22T23:27:42",
+"slug": "atp-no-contact-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/atp-no-contact-letter-2/",
+"title": {
+"rendered": "ATP no Contact Letter"
+},
+"template": "",
+"acf": {
+"title": "ATP no Contact Letter",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Solutions"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_CCC_Third_Party_No_Contact_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1001"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1001"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1012,
+"date": "2017-05-23T10:26:05",
+"date_gmt": "2017-05-22T23:26:05",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1012"
+},
+"modified": "2017-05-23T10:26:05",
+"modified_gmt": "2017-05-22T23:26:05",
+"slug": "generic-cover-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/generic-cover-letter-2/",
+"title": {
+"rendered": "Generic Cover Letter"
+},
+"template": "",
+"acf": {
+"title": "Generic Cover Letter",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_GenericCover_L_V1.0.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1012"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1012"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1010,
+"date": "2017-05-23T10:25:06",
+"date_gmt": "2017-05-22T23:25:06",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1010"
+},
+"modified": "2017-05-23T10:25:06",
+"modified_gmt": "2017-05-22T23:25:06",
+"slug": "deceased-refund-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/deceased-refund-letter/",
+"title": {
+"rendered": "Deceased Refund Letter"
+},
+"template": "",
+"acf": {
+"title": "Deceased Refund Letter",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_DeceasedAccountRefund_L_V0.1.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1010"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1010"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1009,
+"date": "2017-05-23T10:24:06",
+"date_gmt": "2017-05-22T23:24:06",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1009"
+},
+"modified": "2017-05-23T10:24:06",
+"modified_gmt": "2017-05-22T23:24:06",
+"slug": "cccfa-changes-to-conditions-of-use-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/cccfa-changes-to-conditions-of-use-letter/",
+"title": {
+"rendered": "CCCFA Changes to Conditions of Use Letter"
+},
+"template": "",
+"acf": {
+"title": "CCCFA Changes to Conditions of Use Letter",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Service"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_CCCFAChangesToCOU_L_V1.0.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1009"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1009"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 1003,
+"date": "2017-05-23T10:19:52",
+"date_gmt": "2017-05-22T23:19:52",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=1003"
+},
+"modified": "2017-05-23T10:19:52",
+"modified_gmt": "2017-05-22T23:19:52",
+"slug": "credit-balance-deskbanked-to-customer",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/credit-balance-deskbanked-to-customer/",
+"title": {
+"rendered": "Credit Balance Deskbanked to Customer"
+},
+"template": "",
+"acf": {
+"title": "Credit Balance Deskbanked to Customer",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_CreditBalanceDeskbankedToCustomer_L_V1.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/1003"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=1003"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 999,
+"date": "2017-05-23T10:18:28",
+"date_gmt": "2017-05-22T23:18:28",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=999"
+},
+"modified": "2017-05-23T10:18:28",
+"modified_gmt": "2017-05-22T23:18:28",
+"slug": "bank-details",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/bank-details/",
+"title": {
+"rendered": "Bank Details"
+},
+"template": "",
+"acf": {
+"title": "Bank Details ",
+"type": "Letter",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_BankAccountNumber_L_V0.1.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/999"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=999"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 985,
+"date": "2017-05-23T10:17:25",
+"date_gmt": "2017-05-22T23:17:25",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=985"
+},
+"modified": "2017-05-23T10:17:25",
+"modified_gmt": "2017-05-22T23:17:25",
+"slug": "payment-details-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/payment-details-2/",
+"title": {
+"rendered": "Payment Details"
+},
+"template": "",
+"acf": {
+"title": "Payment Details ",
+"type": "Fax & Letters",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": "",
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/products/onecard_visa/documents/OCV_PaymentDetails_V1_December2016.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/985"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=985"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 983,
+"date": "2017-05-23T10:09:40",
+"date_gmt": "2017-05-22T23:09:40",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=983"
+},
+"modified": "2017-05-23T10:09:40",
+"modified_gmt": "2017-05-22T23:09:40",
+"slug": "hardship-decline-but-arrangement-still-accepted-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/hardship-decline-but-arrangement-still-accepted-2/",
+"title": {
+"rendered": "Hardship Decline but Arrangement Still Accepted"
+},
+"template": "",
+"acf": {
+"title": "Hardship Decline but Arrangement Still Accepted",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Coles_Hardship_Decline_But_Arrangement_Still_Accepted.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/983"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=983"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 970,
+"date": "2017-05-23T10:08:33",
+"date_gmt": "2017-05-22T23:08:33",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=970"
+},
+"modified": "2017-05-23T10:08:33",
+"modified_gmt": "2017-05-22T23:08:33",
+"slug": "hardship-decline-but-arrangement-still-accepted",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/hardship-decline-but-arrangement-still-accepted/",
+"title": {
+"rendered": "Hardship Decline but Arrangement Still Accepted"
+},
+"template": "",
+"acf": {
+"title": "Hardship Decline but Arrangement Still Accepted",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Hardship_Decline_But_Arrangement_Still_Accepted.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/970"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=970"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 977,
+"date": "2017-05-23T10:08:28",
+"date_gmt": "2017-05-22T23:08:28",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=977"
+},
+"modified": "2017-05-23T10:08:28",
+"modified_gmt": "2017-05-22T23:08:28",
+"slug": "balance-letterfax",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/balance-letterfax/",
+"title": {
+"rendered": "Balance Letter/Fax"
+},
+"template": "",
+"acf": {
+"title": "Balance Letter/Fax",
+"type": "Fax & Letters",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_Balance_F_V0.1.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/977"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=977"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 975,
+"date": "2017-05-23T10:07:08",
+"date_gmt": "2017-05-22T23:07:08",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=975"
+},
+"modified": "2017-05-23T10:07:08",
+"modified_gmt": "2017-05-22T23:07:08",
+"slug": "subject-to-clearance-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/subject-to-clearance-2/",
+"title": {
+"rendered": "Subject to Clearance"
+},
+"template": "",
+"acf": {
+"title": "Subject to Clearance",
+"type": "Fax & Letters",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_SubjectToClearance_F_V0.1.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/975"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=975"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 967,
+"date": "2017-05-23T10:06:04",
+"date_gmt": "2017-05-22T23:06:04",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=967"
+},
+"modified": "2017-05-23T10:06:04",
+"modified_gmt": "2017-05-22T23:06:04",
+"slug": "statement-cover-letterfax",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/statement-cover-letterfax/",
+"title": {
+"rendered": "Statement Cover Letter/Fax"
+},
+"template": "",
+"acf": {
+"title": "Statement Cover Letter/Fax",
+"type": "Fax & Letters",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_StatementCover_F_V0.1.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/967"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=967"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 958,
+"date": "2017-05-23T10:01:51",
+"date_gmt": "2017-05-22T23:01:51",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=958"
+},
+"modified": "2017-05-23T10:01:51",
+"modified_gmt": "2017-05-22T23:01:51",
+"slug": "hardship-arrangement-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/hardship-arrangement-letter-2/",
+"title": {
+"rendered": "Hardship Arrangement Letter"
+},
+"template": "",
+"acf": {
+"title": "Hardship Arrangement Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Collections"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Hardship_Arrangement_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/958"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=958"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 961,
+"date": "2017-05-23T10:01:27",
+"date_gmt": "2017-05-22T23:01:27",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=961"
+},
+"modified": "2017-05-23T10:01:27",
+"modified_gmt": "2017-05-22T23:01:27",
+"slug": "closure",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/closure/",
+"title": {
+"rendered": "Closure"
+},
+"template": "",
+"acf": {
+"title": "Closure",
+"type": "Fax & Letters",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_Closure_F_V0.1.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/961"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=961"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 954,
+"date": "2017-05-23T09:59:57",
+"date_gmt": "2017-05-22T22:59:57",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=954"
+},
+"modified": "2017-05-23T09:59:57",
+"modified_gmt": "2017-05-22T22:59:57",
+"slug": "emergency-cash-advance-form-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/emergency-cash-advance-form-2/",
+"title": {
+"rendered": "Emergency Cash Advance Form"
+},
+"template": "",
+"acf": {
+"title": "Emergency Cash Advance Form",
+"type": "Fax",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Service"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_EmergencyCashAdvanceRequest_F_V0.1.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/954"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=954"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 952,
+"date": "2017-05-23T09:58:54",
+"date_gmt": "2017-05-22T22:58:54",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=952"
+},
+"modified": "2017-05-23T10:15:07",
+"modified_gmt": "2017-05-22T23:15:07",
+"slug": "hardship-arrangement-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/hardship-arrangement-letter/",
+"title": {
+"rendered": "Hardship Arrangement Letter"
+},
+"template": "",
+"acf": {
+"title": "Hardship Arrangement Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Hardship_Arrangement_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/952"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=952"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 950,
+"date": "2017-05-23T09:55:44",
+"date_gmt": "2017-05-22T22:55:44",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=950"
+},
+"modified": "2017-05-23T09:55:44",
+"modified_gmt": "2017-05-22T22:55:44",
+"slug": "emergency-card-replacement-form-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/emergency-card-replacement-form-2/",
+"title": {
+"rendered": "Emergency Card Replacement Form"
+},
+"template": "",
+"acf": {
+"title": "Emergency Card Replacement Form",
+"type": "Fax",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Service"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/OnecardVisa/OnecardVisaDocuments/OCV_EmergencyCardReplacementRequest_F_V0.1.docm"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/950"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=950"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 948,
+"date": "2017-05-23T09:54:44",
+"date_gmt": "2017-05-22T22:54:44",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=948"
+},
+"modified": "2017-05-23T10:14:28",
+"modified_gmt": "2017-05-22T23:14:28",
+"slug": "balance-letter-3",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/balance-letter-3/",
+"title": {
+"rendered": "Balance Letter"
+},
+"template": "",
+"acf": {
+"title": "Balance Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_LRC_COLES_Balance_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/948"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=948"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 945,
+"date": "2017-05-23T09:53:26",
+"date_gmt": "2017-05-22T22:53:26",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=945"
+},
+"modified": "2017-05-23T10:14:11",
+"modified_gmt": "2017-05-22T23:14:11",
+"slug": "balance-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/balance-letter-2/",
+"title": {
+"rendered": "Balance Letter"
+},
+"template": "",
+"acf": {
+"title": "Balance Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Balance_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/945"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=945"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 943,
+"date": "2017-05-23T09:26:47",
+"date_gmt": "2017-05-22T22:26:47",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=943"
+},
+"modified": "2017-05-23T09:26:47",
+"modified_gmt": "2017-05-22T22:26:47",
+"slug": "staff-lending-endorsement-form",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/staff-lending-endorsement-form/",
+"title": {
+"rendered": "Staff Lending Endorsement Form"
+},
+"template": "",
+"acf": {
+"title": "Staff Lending Endorsement Form",
+"type": "Form",
+"country": "NZ",
+"departments": [
+"Originations"
+],
+"teams": [
+"NZ Originations"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa",
+"Gem Personal Loan",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/Staff_Lending_Endorsement_Form_16052016.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/943"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=943"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 937,
+"date": "2017-05-23T09:25:24",
+"date_gmt": "2017-05-22T22:25:24",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=937"
+},
+"modified": "2017-05-23T09:25:24",
+"modified_gmt": "2017-05-22T22:25:24",
+"slug": "statement-of-financial-position-form-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/statement-of-financial-position-form-2/",
+"title": {
+"rendered": "Statement of Financial Position Form"
+},
+"template": "",
+"acf": {
+"title": "Statement of Financial Position Form",
+"type": "Form",
+"country": "NZ",
+"departments": [
+"Originations",
+"Customer Solutions and Support"
+],
+"teams": [
+"NZ Originations",
+"Customer Support"
+],
+"products-sites": "Gem NZ",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/GemVisa/FUT0012_17_04_16_VisaStmt_ofFinancialPosition_LR.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/937"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=937"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 938,
+"date": "2017-05-23T09:22:58",
+"date_gmt": "2017-05-22T22:22:58",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=938"
+},
+"modified": "2017-05-23T10:13:45",
+"modified_gmt": "2017-05-22T23:13:45",
+"slug": "deflag-writing-only-contact-letter-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/deflag-writing-only-contact-letter-2/",
+"title": {
+"rendered": "Deflag Writing Only Contact Letter"
+},
+"template": "",
+"acf": {
+"title": "Deflag Writing Only Contact Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Coles Group Card",
+"Coles MasterCard"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_COLES_Deflag_Writing_Only_Contact_Letter1.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/938"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=938"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 936,
+"date": "2017-05-23T09:20:41",
+"date_gmt": "2017-05-22T22:20:41",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=936"
+},
+"modified": "2017-05-23T10:13:29",
+"modified_gmt": "2017-05-22T23:13:29",
+"slug": "deflag-writing-only-contact-letter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/deflag-writing-only-contact-letter/",
+"title": {
+"rendered": "Deflag Writing Only Contact Letter"
+},
+"template": "",
+"acf": {
+"title": "Deflag Writing Only Contact Letter",
+"type": "Letter",
+"country": "AU",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans",
+"Credit Cards"
+],
+"products": [
+"Latitude Personal Loan",
+"Latitude Low Rate Personal Loan",
+"Latitude Car Loan",
+"Umi Loan",
+"Aussie Loan",
+"Gem Visa",
+"28 Degrees Platinum MasterCard",
+"GO MasterCard",
+"CreditLine (AFS)",
+"Myer Visa",
+"Myer Black",
+"Latitude MasterCard",
+"CreditLine",
+"Latitude Low Rate MasterCard",
+"Latitude Eco MasterCard",
+"CareCredit",
+"Buyer's Edge",
+"GO Business MasterCard",
+"Gem Personal Loan",
+"KiwiBank Personal Loan",
+"Gem Car Loan",
+"Gem CreditLine",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/Library/Letters/LRC_Latitude_Deflag_Writing_Only_Contact_Letter.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/936"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=936"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 935,
+"date": "2017-05-23T09:19:19",
+"date_gmt": "2017-05-22T22:19:19",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=935"
+},
+"modified": "2017-05-23T09:19:19",
+"modified_gmt": "2017-05-22T22:19:19",
+"slug": "statement-of-accounts-template",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/statement-of-accounts-template/",
+"title": {
+"rendered": "Statement of Accounts Template"
+},
+"template": "",
+"acf": {
+"title": "Statement of Accounts Template",
+"type": "Form",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Support"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/products/gem_visa/documents/Document_Repository/Letter_templates/NEW_GEM_SOA_TEMPLATE_V2.xlsm"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/935"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=935"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 933,
+"date": "2017-05-23T09:17:19",
+"date_gmt": "2017-05-22T22:17:19",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=933"
+},
+"modified": "2017-05-23T09:17:19",
+"modified_gmt": "2017-05-22T22:17:19",
+"slug": "form-1-nsw",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/form-1-nsw/",
+"title": {
+"rendered": "Form 1 &#8211; NSW"
+},
+"template": "",
+"acf": {
+"title": "Form 1 - NSW",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Collections"
+],
+"teams": [
+"Equity Loans Collections"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Equity Loan"
+],
+"url": "http://mercado.lfs.local/Library/Letters/EC_NSW_Notices.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/933"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=933"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 930,
+"date": "2017-05-23T09:15:38",
+"date_gmt": "2017-05-22T22:15:38",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=930"
+},
+"modified": "2017-05-23T09:15:38",
+"modified_gmt": "2017-05-22T22:15:38",
+"slug": "form-1-victoria",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/form-1-victoria/",
+"title": {
+"rendered": "Form 1 &#8211; Victoria"
+},
+"template": "",
+"acf": {
+"title": "Form 1 - Victoria",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Collections"
+],
+"teams": [
+"Equity Loans Collections"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Equity Loan"
+],
+"url": "http://mercado.lfs.local/Library/Letters/EC_Form-1-FDM-Vic-s8-notice-of-availability-of-mediation.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/930"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=930"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 925,
+"date": "2017-05-23T09:14:25",
+"date_gmt": "2017-05-22T22:14:25",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=925"
+},
+"modified": "2017-05-23T09:14:25",
+"modified_gmt": "2017-05-22T22:14:25",
+"slug": "referral-criteria",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/referral-criteria/",
+"title": {
+"rendered": "Referral Criteria"
+},
+"template": "",
+"acf": {
+"title": "Referral Criteria",
+"type": "Policy",
+"country": "AU",
+"departments": [
+"Collections"
+],
+"teams": [
+"Equity Loans Collections"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Equity Loan"
+],
+"url": "http://mercado.lfs.local/Library/Letters/EC_18092013ReferralCriteria.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/925"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=925"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 924,
+"date": "2017-05-23T09:13:33",
+"date_gmt": "2017-05-22T22:13:33",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=924"
+},
+"modified": "2017-05-23T09:13:33",
+"modified_gmt": "2017-05-22T22:13:33",
+"slug": "new-business-sales-voucher",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/new-business-sales-voucher/",
+"title": {
+"rendered": "New Business Sales Voucher"
+},
+"template": "",
+"acf": {
+"title": "New Business Sales Voucher",
+"type": "Form",
+"country": "NZ",
+"departments": [
+"Originations",
+"Customer Solutions and Support"
+],
+"teams": [
+"NZ Originations",
+"Customer Support"
+],
+"products-sites": "Gem NZ",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/GemVisa/FUT0012_15_04_16GemVisaNewBusSalesVoucher_LR.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/924"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=924"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 919,
+"date": "2017-05-23T09:13:23",
+"date_gmt": "2017-05-22T22:13:23",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=919"
+},
+"modified": "2017-05-23T09:13:23",
+"modified_gmt": "2017-05-22T22:13:23",
+"slug": "foreclosure-committee-charter",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/foreclosure-committee-charter/",
+"title": {
+"rendered": "Foreclosure Committee Charter"
+},
+"template": "",
+"acf": {
+"title": "Foreclosure Committee Charter",
+"type": "Policy",
+"country": "AU",
+"departments": [
+"Collections"
+],
+"teams": [
+"Equity Loans Collections"
+],
+"products-sites": "Latitude",
+"product_type": [
+"Loans"
+],
+"products": [
+"Equity Loan"
+],
+"url": "http://mercado.lfs.local/Library/Letters/EC_ForeclosureCommitteeCharter.doc"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/919"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=919"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 917,
+"date": "2017-05-23T09:12:30",
+"date_gmt": "2017-05-22T22:12:30",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=917"
+},
+"modified": "2017-05-23T09:12:30",
+"modified_gmt": "2017-05-22T22:12:30",
+"slug": "manual-add-on-sales-voucher-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/manual-add-on-sales-voucher-2/",
+"title": {
+"rendered": "Manual Add On Sales Voucher"
+},
+"template": "",
+"acf": {
+"title": "Manual Add On Sales Voucher",
+"type": "Form",
+"country": "NZ",
+"departments": [
+"Originations",
+"Customer Solutions and Support"
+],
+"teams": [
+"NZ Originations",
+"Customer Support"
+],
+"products-sites": "Gem NZ",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/GemVisa/FUT0012_73_04_16_GemVisaAddOnSalesVoucher_LR.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/917"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=917"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 913,
+"date": "2017-05-23T09:06:38",
+"date_gmt": "2017-05-22T22:06:38",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=913"
+},
+"modified": "2017-05-23T09:06:38",
+"modified_gmt": "2017-05-22T22:06:38",
+"slug": "gem-visa-letter-of-authority-loa-form",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/gem-visa-letter-of-authority-loa-form/",
+"title": {
+"rendered": "Gem Visa Letter of Authority (LOA) Form"
+},
+"template": "",
+"acf": {
+"title": "Gem Visa Letter of Authority (LOA) Form",
+"type": "Form",
+"country": "NZ",
+"departments": [
+"Originations",
+"Customer Solutions and Support",
+"Collections"
+],
+"teams": [
+"NZ Originations",
+"Customer Support",
+"Customer Service",
+"Collections"
+],
+"products-sites": "Gem NZ",
+"product_type": "",
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/GemVisa/FUT0012_74_04_16GemVisaAuthority_toDisclose_LR.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/913"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=913"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 912,
+"date": "2017-05-23T09:03:18",
+"date_gmt": "2017-05-22T22:03:18",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=912"
+},
+"modified": "2017-05-23T09:03:18",
+"modified_gmt": "2017-05-22T22:03:18",
+"slug": "gem-visa-new-application-idv-form",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/gem-visa-new-application-idv-form/",
+"title": {
+"rendered": "Gem Visa New Application IDV Form"
+},
+"template": "",
+"acf": {
+"title": "Gem Visa New Application IDV Form",
+"type": "Form",
+"country": "NZ",
+"departments": [
+"Originations"
+],
+"teams": [
+"NZ Originations"
+],
+"products-sites": "Gem NZ",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/GemVisa/GemVisa_NewApplicaton_ID_VerificationWithChecklist08_16.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/912"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=912"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 911,
+"date": "2017-05-23T09:00:58",
+"date_gmt": "2017-05-22T22:00:58",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=911"
+},
+"modified": "2017-05-23T09:16:48",
+"modified_gmt": "2017-05-22T22:16:48",
+"slug": "direct-debit-form-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/direct-debit-form-2/",
+"title": {
+"rendered": "Direct Debit Form"
+},
+"template": "",
+"acf": {
+"title": "Direct Debit Form",
+"type": "Form",
+"country": "NZ",
+"departments": [
+"Originations",
+"Customer Solutions and Support",
+"Collections"
+],
+"teams": [
+"NZ Originations",
+"Customer Support",
+"Customer Service",
+"Collections"
+],
+"products-sites": "Gem NZ",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/GemVisa/Gem_Visa_DD_Form09_16.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/911"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=911"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 910,
+"date": "2017-05-23T08:58:42",
+"date_gmt": "2017-05-22T21:58:42",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=910"
+},
+"modified": "2017-05-23T08:58:42",
+"modified_gmt": "2017-05-22T21:58:42",
+"slug": "bcp-cards-delayed-application-form",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/bcp-cards-delayed-application-form/",
+"title": {
+"rendered": "BCP Cards Delayed Application Form"
+},
+"template": "",
+"acf": {
+"title": "BCP Cards Delayed Application Form",
+"type": "Form",
+"country": "NZ",
+"departments": [
+"Customer Solutions and Support"
+],
+"teams": [
+"Customer Service"
+],
+"products-sites": "Gem NZ",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa",
+"OneCard Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/Cards_Delayed_Application_Form_v2.docx"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/910"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=910"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 909,
+"date": "2017-05-23T08:55:04",
+"date_gmt": "2017-05-22T21:55:04",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=909"
+},
+"modified": "2017-05-23T09:16:29",
+"modified_gmt": "2017-05-22T22:16:29",
+"slug": "automatic-payment-form-2",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/automatic-payment-form-2/",
+"title": {
+"rendered": "Automatic Payment Form"
+},
+"template": "",
+"acf": {
+"title": "Automatic Payment Form",
+"type": "Form",
+"country": "AU",
+"departments": [
+"Originations",
+"Customer Solutions and Support",
+"Collections"
+],
+"teams": [
+"NZ Originations",
+"Customer Support",
+"Customer Service",
+"Collections"
+],
+"products-sites": "Gem NZ",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/export/sites/mercado/sites/nz/new_structure/DocHub/GemVisa/FUT0012_94_04_16Authority_for_AutomaticPayments_Editable.pdf"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/909"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=909"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 908,
+"date": "2017-05-23T08:36:52",
+"date_gmt": "2017-05-22T21:36:52",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=908"
+},
+"modified": "2017-05-23T08:36:52",
+"modified_gmt": "2017-05-22T21:36:52",
+"slug": "conditional-approval-pca",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/conditional-approval-pca/",
+"title": {
+"rendered": "Conditional Approval PCA"
+},
+"template": "",
+"acf": {
+"title": "Conditional Approval PCA",
+"type": "Email",
+"country": "NZ",
+"departments": [
+"Originations"
+],
+"teams": [
+"NZ Originations"
+],
+"products-sites": "Gem NZ",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/GemVisa/GemVisa_ConditionalApproval_PCA.msg"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/908"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=908"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 907,
+"date": "2017-05-23T08:35:30",
+"date_gmt": "2017-05-22T21:35:30",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=907"
+},
+"modified": "2017-05-23T08:35:30",
+"modified_gmt": "2017-05-22T21:35:30",
+"slug": "conditional-approval-poa",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/conditional-approval-poa/",
+"title": {
+"rendered": "Conditional Approval POA"
+},
+"template": "",
+"acf": {
+"title": "Conditional Approval POA",
+"type": "Email",
+"country": "NZ",
+"departments": [
+"Originations"
+],
+"teams": [
+"NZ Originations"
+],
+"products-sites": "Gem NZ",
+"product_type": "",
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/GemVisa/GemVisa_ConditionalApproval_POA.msg"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/907"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=907"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 906,
+"date": "2017-05-23T08:34:36",
+"date_gmt": "2017-05-22T21:34:36",
+"guid": {
+"rendered": "http://homepage.lfs.local/mercado-v2/?post_type=documents&#038;p=906"
+},
+"modified": "2017-05-23T08:34:36",
+"modified_gmt": "2017-05-22T21:34:36",
+"slug": "conditional-approval-aml",
+"status": "publish",
+"type": "documents",
+"link": "http://homepage.lfs.local/mercado-v2/documents/conditional-approval-aml/",
+"title": {
+"rendered": "Conditional Approval AML"
+},
+"template": "",
+"acf": {
+"title": "Conditional Approval AML",
+"type": "Email",
+"country": "NZ",
+"departments": [
+"Originations"
+],
+"teams": [
+"NZ Originations"
+],
+"products-sites": "Gem NZ",
+"product_type": [
+"Credit Cards"
+],
+"products": [
+"Gem Visa"
+],
+"url": "http://mercado.lfs.local/sites/nz/new_structure/DocHub/GemVisa/GemVisa_ConditionalApproval_AML.msg"
+},
+"_links": {
+"self": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents/906"
+}
+],
+"collection": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents"
+}
+],
+"about": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/types/documents"
+}
+],
+"wp:attachment": [
+{
+"href": "http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/media?parent=906"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+}
+]

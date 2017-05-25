@@ -624,15 +624,8 @@ background-color: transparent !important;
 
 body {
 
-background-color: transparent !important;
+background-color: #efefef;
 
-background-image: url('./wp-content/uploads/sites/329/2017/05/background.svg');
-
-background-repeat: no-repeat;
-
-background-attachment: fixed;
-
-background-position: right;
 
 }
 

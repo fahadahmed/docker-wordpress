@@ -16,16 +16,11 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
                     templateUrl: 'wp-content/themes/mercado-wp/views/main.html',
                     controller: 'MainCtrl'
                 },
-                'contacts@collections': {
-                    templateUrl: 'wp-content/themes/mercado-wp/views/components/contacts.html',
-                    controller: 'ContactsCtrl'
-                },
                 'pp@collections': {
                     templateUrl: 'wp-content/themes/mercado-wp/views/pnps/pp-collections.html'
                 },
                 'toolkit@collections': {
-                    templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html',
-                    controller: 'ToolkitCtrl'
+                    templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html'
                 },
                 'documents@collections': {
                     templateUrl: 'wp-content/themes/mercado-wp/views/components/documents.html',
@@ -53,8 +48,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
                 templateUrl: 'wp-content/themes/mercado-wp/views/pnps/pp-originations.html'
             },
             'toolkit@originations': {
-                templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html',
-                controller: 'ToolkitCtrl'
+                templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html'
             },
             'documents@originations': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/components/documents.html',
@@ -66,7 +60,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
     .state('cs-support', {
         url: '/cs-support',
         params: {
-            department: 'Customer Solutions & Support',
+            department: 'Customer Solutions',
             teams: ['Customer Solutions', 'Customer Service', 'Helpline', 'Customer Support', 'Business Support'],
         },
         views: {
@@ -82,8 +76,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
                 controller: 'ContactsCtrl'
             },
             'toolkit@cs-support': {
-                templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html',
-                controller: 'ToolkitCtrl'
+                templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html'
             },
             'documents@cs-support': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/components/documents.html',
@@ -112,11 +105,9 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
             },
             'toolkit@cmt': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html',
-                controller: 'ToolkitCtrl'
             },
             'documents@cmt': {
-                templateUrl: 'wp-content/themes/mercado-wp/views/components/documents.html',
-                controller: 'DocumentCtrl'
+                templateUrl: 'wp-content/themes/mercado-wp/views/components/documents.html'
             }
         }
     })
@@ -140,8 +131,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
                 controller: 'ContactsCtrl'
             },
             'toolkit@personal-loans': {
-                templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html',
-                controller: 'ToolkitCtrl'
+                templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html'
             },
             'documents@personal-loans': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/components/documents.html',
@@ -169,8 +159,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
                 controller: 'ContactsCtrl'
             },
             'toolkit@insurance': {
-                templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html',
-                controller: 'ToolkitCtrl'
+                templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html'
             },
             'documents@insurance': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/components/documents.html',
@@ -193,74 +182,82 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
     })
 });
 
+mercadoApp.factory('mercadoService', function($http, $q) {
+
+  return {
+
+    // getting the results for the Toolkit
+    getToolkit: function() {
+      return $q.all([
+        $http.get('http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/toolkit?per_page=100'),
+        $http.get('http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/toolkit?per_page=100&page=2')
+      ])
+
+      .then(function(results) {
+        var data = [];
+        angular.forEach(results, function(result) {
+          console.log(result.data);
+          data = data.concat(result.data);
+        });
+        return data;
+      });
+    },
+
+    // getting the results for DocHub
+    getDocuments: function() {
+      return $q.all([
+        $http.get('http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents?per_page=100'),
+        $http.get('http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents?per_page=100&page=2'),
+        $http.get('http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents?per_page=100&page=3'),
+        $http.get('http://homepage.lfs.local/mercado-v2/wp-json/wp/v2/documents?per_page=100&page=4')
+      ])
+
+      .then(function(results) {
+        var data = [];
+        angular.forEach(results, function(result) {
+          console.log(result.data);
+          data = data.concat(result.data);
+        });
+        return data;
+      });
+    }
+
+  };
+});
+
+mercadoApp.controller('RootCtrl', function($scope, mercadoService) {
+
+  $scope.message = "Please wait while we get your data..";
+
+  mercadoService.getToolkit().then(function(data) {
+    $scope.toolkit = data;
+    $scope.message = "";
+  });
+
+  mercadoService.getDocuments().then(function(data) {
+    $scope.documents = data;
+  });
+});
+
 mercadoApp.controller('MainCtrl', function($scope, $stateParams) {
-    $scope.department = $stateParams.department;
+    $scope.selected_department = $stateParams.department;
 });
 
-mercadoApp.controller('ToolkitCtrl', function($scope, $http, $q) {
 
-    $scope.message = "Toolkit would be awesome!";
-
-    var tk_response, tk_response1, tk_response2, tk_response3 = "";
-
-    tk_response = $http.get('./wp-json/wp/v2/toolkit');
-    tk_response1 = $http.get('./wp-json/wp/v2/toolkit?page=2');
-    tk_response2 = $http.get('./wp-json/wp/v2/toolkit?page=3');
-    tk_response3 = $http.get('./wp-json/wp/v2/toolkit?page=4');
-
-
-    $q.all([tk_response, tk_response1, tk_response2, tk_response3]).then(function() {
-      var a = tk_response.$$state.value.data;
-      var b = tk_response1.$$state.value.data;
-      var c = a.concat(b);
-      c = c.concat(tk_response2.$$state.value.data);
-      c = c.concat(tk_response3.$$state.value.data);
-      $scope.toolkit = c;
-      console.log( c );
-    });
-
-});
-
-mercadoApp.controller('ContactsCtrl', function($scope, $http, $sce) {
-
-    $scope.message = "Contacts would be awesome!";
-
-    $http({
-        method: 'GET',
-        url: './wp-json/wp/v2/contacts'
-    }).then(function successCallback(response) {
-        $scope.contacts = response.data;
-    }, function errorCallback(response) {
-        console.log("Cannot get the data from the contacts.json file." + response)
-    });
-});
-
-mercadoApp.controller('DocumentCtrl', function($scope, $http, $stateParams) {
+mercadoApp.controller('DocumentCtrl', function($scope, $http, $stateParams, mercadoService) {
 
     $scope.teams = $stateParams.teams;
-    $scope.department = $stateParams.department;
+    $scope.selected_department = $stateParams.department;
 
-    console.log($scope.department);
+    console.log($scope.selected_department);
     console.log($scope.teams);
 
     var searchDocuments = function() {
         console.log("This function was called when the search button was clicked!");
     }
-
-    $http({
-        method: 'GET',
-        url: './wp-json/wp/v2/documents'
-    }).then(function successCallback(response) {
-        $scope.response = response;
-        $scope.documents = $scope.response.data;
-    }, function errorCallback(response) {
-        console.log("Cannot get the data from the documents.json file.")
-    });
 });
 
 mercadoApp.controller('CommsHubCtrl', function($scope, $http) {
-
-    $scope.message = 'Please Wait...';
 
     $http({
         method: 'GET',
@@ -271,14 +268,5 @@ mercadoApp.controller('CommsHubCtrl', function($scope, $http) {
         $scope.message = "";
     }, function errorCallback(response) {
         console.log("Cannot get the data from the communications file.")
-    });
-
-    $http({
-        method: 'GET',
-        url: 'http://homepage.lfs.local/communications/wp-json/wp/v2/categories'
-    }).then(function successCallback(response) {
-        $scope.categories = response.data;
-    }, function errorCallback(response) {
-        console.log("Cannot get the data from the Comms Hub Category section");
     });
 });

@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-    <body ng-app="MercadoApp">
+    <body ng-app="MercadoApp" ng-controller="RootCtrl">
         <nav class="navbar navbar-default">
           <div class="collapse navbar-collapse">
             <div class="navbar-header">
