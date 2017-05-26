@@ -14,7 +14,7 @@
             </div>
             <div class="col-sm-4">
                 <select name="" id="" class="form-control" ng-model="dchbSite">
-                    <option value="">Site</option>
+                    <option value="">Country</option>
                     <option value="AU">Australia - AU</option>
                     <option value="NZ">New Zealand - NZ</option>
                     <option value="ANZ">Australia & New Zealand - ANZ</option>
@@ -24,14 +24,17 @@
         <br/>
         <div class="row">
             <div class="col-sm-4">
-
+              <select class="form-control" ng-options="team as team for team in teams" ng-model="dchbTeam">
+                <option value="">Select Team</option>
+              </select>
             </div>
             <div class="col-sm-4">
-                <select name="" id="" class="form-control" ng-model="dchbProduct">
-                    <option value="">Product</option>
-                    <option value="Coles">Coles</option>
-                    <option value="Latitude">Latitude</option>
-                </select>
+              <select name="" id="" class="form-control" ng-model="dchbProduct">
+                  <option value="">Filter By Product Type</option>
+                  <option value="Loans">Loans</option>
+                  <option value="Credit Cards">Credit Cards</option>
+                  <option value="Insurance">Insurance</option>
+              </select>
             </div>
             <div class="col-sm-4">
                 <button class="btn btn-primary btn-block" data-toggle="modal" data-target="#myModal" ng-click="searchDocuments()">Search</button>
@@ -58,15 +61,15 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <select name="" id="" class="form-control" ng-model="dchbSite">
-                            <option value="">Select Site</option>
+                            <option value="">Select Country</option>
                             <option value="AU">Australia - AU</option>
                             <option value="NZ">New Zealand - NZ</option>
                             <option value="AU & NZ">Australia & New Zealand - ANZ</option>
                         </select>
                     </div>
                     <div class="col-sm-4">
-                        <select name="" id="" class="form-control">
-                            <select class="form-control" ng-options="team as team for team in teams" ng-model="myselect"></select>
+                        <select class="form-control" ng-options="team as team for team in teams" ng-model="dchbTeam">
+                          <option value="">Select Team</option>
                         </select>
                     </div>
                     <div class="col-sm-4">
@@ -88,16 +91,16 @@
                                 <th>Product Type</th>
                             </thead>
                             <tbody>
-                                <tr dir-paginate="document in documents | filter: {acf: {departments: selected_department }} | filter: dchbSearch | filter: {acf: {country: dchbSite} } | filter: {acf: {product_type: dchbProduct}}| itemsPerPage: 20" pagination-id="documents">
+                                <tr dir-paginate="document in documents | filter: {acf: {departments: selected_department }} | filter: dchbSearch | filter: {acf: {country: dchbSite} } | filter: {acf: {teams: dchbTeam} } | filter: {acf: {product_type: dchbProduct}}| itemsPerPage: 20" pagination-id="documents">
                                     <td>
-                                      <a href="{{document.acf.url}}"><p><strong>{{document.acf.title}}</strong></p></a>
-                                      <span class="badge" ng-repeat-start="team in document.acf.teams">{{team}}</span> <span ng-repeat-end></span>
+                                      <a href="{{document.acf.url}}"><h6>{{document.acf.title}}</h6></a>
+                                      <div><small>Teams:</small> <span class="badge" ng-repeat-start="team in document.acf.teams">{{team}}</span> <span ng-repeat-end></span></div>
                                     </td>
-                                    <td>{{document.acf.country}}</td>
                                     <td>
-                                      <ul>
-                                        <li ng-repeat="prod in document.acf.product_type">{{prod}}</li>
-                                      </ul>
+                                      <span class="label label-warning">{{document.acf.country}}</span>
+                                    </td>
+                                    <td>
+                                      <span class="label label-primary" ng-repeat-start="prod in document.acf.product_type">{{prod}}</span> <span ng-repeat-end></span>
                                     </td>
                                 </tr>
                             </tbody>

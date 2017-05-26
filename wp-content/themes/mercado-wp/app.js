@@ -40,10 +40,6 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
                 templateUrl: 'wp-content/themes/mercado-wp/views/main.html',
                 controller: 'MainCtrl'
             },
-            'contacts@originations': {
-                templateUrl: 'wp-content/themes/mercado-wp/views/components/contacts.html',
-                controller: 'ContactsCtrl'
-            },
             'pp@originations': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/pnps/pp-originations.html'
             },
@@ -71,10 +67,6 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
             'pp@cs-support': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/pnps/pp-cs-support.html'
             },
-            'contacts@cs-support': {
-                templateUrl: 'wp-content/themes/mercado-wp/views/components/contacts.html',
-                controller: 'ContactsCtrl'
-            },
             'toolkit@cs-support': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html'
             },
@@ -99,10 +91,6 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
             'pp@cmt': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/pnps/pp-cmt.html'
             },
-            'contacts@cmt': {
-                templateUrl: 'wp-content/themes/mercado-wp/views/components/contacts.html',
-                controller: 'ContactsCtrl'
-            },
             'toolkit@cmt': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html',
             },
@@ -125,10 +113,6 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
             },
             'pp@personal-loans': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/pnps/pp-personal-loans.html',
-            },
-            'contacts@personal-loans': {
-                templateUrl: 'wp-content/themes/mercado-wp/views/components/contacts.html',
-                controller: 'ContactsCtrl'
             },
             'toolkit@personal-loans': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html'
@@ -153,10 +137,6 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
             },
             'pp@insurance': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/pnps/pp-insurance.html'
-            },
-            'contacts@insurance': {
-                templateUrl: 'wp-content/themes/mercado-wp/views/components/contacts.html',
-                controller: 'ContactsCtrl'
             },
             'toolkit@insurance': {
                 templateUrl: 'wp-content/themes/mercado-wp/views/components/toolkit.html'
@@ -248,6 +228,7 @@ mercadoApp.controller('DocumentCtrl', function($scope, $http, $stateParams, merc
 
     $scope.teams = $stateParams.teams;
     $scope.selected_department = $stateParams.department;
+    $scope.options = ['option1', 'option2'];
 
     console.log($scope.selected_department);
     console.log($scope.teams);
