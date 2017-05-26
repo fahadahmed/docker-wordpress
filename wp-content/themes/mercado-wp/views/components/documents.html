@@ -86,21 +86,22 @@
                     <div class="col-sm-12">
                         <table class="table table-bordered">
                             <thead>
-                                <th>Name</th>
-                                <th>Country</th>
-                                <th>Product Type</th>
+                                <th width="40%">Name</th>
+                                <th width="30%">Country</th>
+                                <th width="30%">Product Type</th>
                             </thead>
                             <tbody>
                                 <tr dir-paginate="document in documents | filter: {acf: {departments: selected_department }} | filter: dchbSearch | filter: {acf: {country: dchbSite} } | filter: {acf: {teams: dchbTeam} } | filter: {acf: {product_type: dchbProduct}}| itemsPerPage: 20" pagination-id="documents">
                                     <td>
                                       <a href="{{document.acf.url}}"><h6>{{document.acf.title}}</h6></a>
-                                      <div><small>Teams:</small> <span class="badge" ng-repeat-start="team in document.acf.teams">{{team}}</span> <span ng-repeat-end></span></div>
+                                      <div><span class="badge" ng-repeat-start="team in document.acf.teams">{{team}}</span> <span ng-repeat-end></span></div>
                                     </td>
                                     <td>
                                       <span class="label label-warning">{{document.acf.country}}</span>
                                     </td>
                                     <td>
                                       <span class="label label-primary" ng-repeat-start="prod in document.acf.product_type">{{prod}}</span> <span ng-repeat-end></span>
+                                      <span class="label label-info" ng-repeat-start="product in document.acf.products">{{product}}</span> <span ng-repeat-end></span>
                                     </td>
                                 </tr>
                             </tbody>
