@@ -80,7 +80,7 @@ mercadoApp.config(function($stateProvider, $urlRouterProvider) {
     .state('cmt', {
         url: '/cmt',
         params: {
-            department: 'Complaints Management Team',
+            department: 'CMT',
             teams: ['CRT', 'DRD'],
         },
         views: {
